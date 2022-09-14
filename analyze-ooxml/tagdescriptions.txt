@@ -1,0 +1,2445 @@
+AbbreviatedCaseNumber  # Abbreviated Case Number
+absoluteAnchor  # Absolute Anchor Shape Size
+absSizeAnchor  # Absolute Anchor Shape Size
+abstractNum  # Abstract Numbering Definition
+acc  # Accent
+accent1  # Accent 1
+accent2  # Accent 2
+accent3  # Accent 3
+accent4  # Accent 4
+accent5  # Accent 5
+accent6  # Accent 6
+accPr  # Accent Properties
+active  # Record Is Included in Mail Merge
+activeRecord  # Record Currently Displayed In Merged Document
+activeWritingStyle  # Grammar Checking Settings
+additionalCharacteristics  # Set of Additional Characteristics
+addressFieldName  # Column Containing E-mail Address
+adjustLineHeightInTable  # Add Document Grid Line Pitch To Lines in Table Cells
+ahLst  # List of Shape Adjust Handles
+ahPolar  # Polar Adjust Handle
+ahXY  # XY Adjust Handle
+AlbumTitle  # Album Title
+alg  # Algorithm
+aliases  # Alternate Style Names
+alias  # Friendly Name
+alignment  # Alignment
+align  # Relative Horizontal Alignment
+align  # Relative Vertical Alignment
+allowPNG  # Allow PNG as Graphic Format
+aln  # Alignment
+alnScr  # Align Scripts
+alpha  # Alpha
+alphaBiLevel  # Alpha Bi-Level Effect
+alphaMod  # Alpha Modulate Effect
+alphaMod  # Alpha Modulation
+alphaModFix  # Alpha Modulate Fixed Effect
+alphaOutset  # Alpha Inset/Outset Effect
+alphaRepl  # Alpha Replace Effect
+altChunk  # Anchor for Imported External Content
+altChunkPr  # External Content Import Properties
+altName  # Alternate Names for Font
+anchor  # Anchor for Floating DrawingML Object
+anchor  # Anchor Point
+anchor  # Object Cell Anchor
+anim  # Animate
+animClr  # Animate Color Behavior
+animEffect  # Animate Effect
+animLvl  # Level Animation
+animMotion  # Animate Motion
+animOne  # One by One Animation String
+animRot  # Animate Rotation
+animScale  # Animate Scale
+annotationRef  # Comment Information Block
+Application  # Application Name
+applyToEnd  # Apply to End
+applyToFront  # Apply To Front
+applyToSides  # Apply To Sides
+AppVersion  # Application Version
+arcTo  # Draw Arc To
+areaChart  # Area Charts
+area3DChart  # 3D Area Charts
+argPr  # Argument Properties
+argSz  # Argument Size
+Artist  # Artist
+attachedSchema  # Attached Custom XML Schema
+attachedTemplate  # Attached Document Template
+attrName  # Attribute Name
+attrNameLst  # Attribute Name List
+attr  # Smart Tag Property
+audio  # Audio
+audioFile  # Audio from File
+author  # Author
+Author  # Author
+Author  # Contributors List
+authors  # Authors
+autoCaptions  # Automatic Captioning Settings
+autoCaption  # Single Automatic Captioning Setting
+autoFilter  # AutoFilter Settings
+autoHyphenation  # Automatically Hyphenate Document Contents When Displayed
+autoSortScope  # AutoSort Scope
+autoSpaceDE  # Automatically Adjust Spacing of Latin and East Asian Text
+autoUpdate  # Update Automatically
+avLst  # List of Shape Adjust Values
+axId  # Axis ID
+axPos  # Axis Position
+backdrop  # Backdrop Plane
+backWall  # Back Wall
+backward  # Backward
+balanceSingleByteDoubleByteWidth  # Balance Single Byte and Double Byte Characters
+bandFmt  # Band Format
+bandFmts  # Band Formats
+band1H  # Band 1 Horizontal
+band1V  # Band 1 Vertical
+band2H  # Band 2 Horizontal
+band2V  # Band 2 Vertical
+bar  # Bar
+barDir  # Bar Direction
+barChart  # Bar Charts
+bar  # Paragraph Border Between Facing Pages
+barPr  # Bar Properties
+bar3DChart  # 3D Bar Charts
+basedOn  # Parent Style ID
+baseJc  # Matrix Base Justification
+baseTimeUnit  # Base Time Unit
+b  # Bold
+b  # Bold
+b  # Boolean
+bCs  # Complex Script Bold
+bdo  # Bidirectional Override
+bdr  # Text Border
+begChr  # Delimiter Beginning Character
+behavior  # Entry Insertion Behavior
+behaviors  # Entry Insertion Behaviors
+bevelB  # Bottom Bevel
+bevel  # Bevel
+bevel  # Line Join Bevel
+bevelT  # Top Bevel
+bg  # Background Formatting
+bg  # Background Formatting
+bgClr  # Background color
+bgColor  # Background Color
+bgFillStyleLst  # Background Fill Style List
+bgPr  # Background Properties
+bgRef  # Background Style Reference
+bg  # Slide Background
+bibliography  # Bibliography Structured Document Tag
+bidi  # Right to Left Section Layout
+bidiVisual  # Visually Right to Left Table
+bk  # Future Metadata Block
+bk  # Metadata Block
+bldAsOne  # Build As One
+bldDgm  # Build Diagram
+bldDgm  # Build Diagram
+bldGraphic  # Build Graphics
+bldChart  # Build Chart
+bldLst  # Build List
+bldOleChart  # Build Embedded Chart
+bldP  # Build Paragraph
+blend  # Blend Effect
+blipFill  # Picture Fill
+blipFill  # Picture Fill
+blipFill  # Picture Fill
+blipFill  # Picture Fill
+blipFill  # Picture Fill
+blob  # Binary Blob
+blockQuote  # Data for HTML blockquote Element
+blue  # Blue
+blueMod  # Blue Modulation
+blur  # Blur Effect
+bodyPr  # Body Properties
+bodyPr  # Body Properties
+bodyStyle  # Slide Master Body Text Style
+boldItalic  # Bold Italic Embedded Font
+BookAuthor  # Book Author
+bookFoldPrinting  # Book Fold Printing
+bookFoldPrintingSheets  # Number of Pages Per Booklet
+bookFoldRevPrinting  # Reverse Book Fold Printing
+bookmarkEnd  # Bookmark End
+bookmarkStart  # Bookmark Start
+BookTitle  # Book Title
+bool  # Boolean
+boolVal  # Boolean Variant
+borderBox  # Border-Box Object
+borderBoxPr  # Border-Box Properties
+Border Properties  # CT_Border
+borders  # Borders
+bordersDoNotSurroundFooter  # Page Border Excludes Footer
+bordersDoNotSurroundHeader  # Page Border Excludes Header
+bottom  # Bottom Border
+bottom  # Bottom Border
+bottom  # Bottom Border
+bottom  # Paragraph Border Below Identical Paragraphs
+bottom  # Table Cell Bottom Border
+bottom  # Table Cell Bottom Margin Default
+box  # Box Object
+boxPr  # Box Properties
+br  # Break
+brkBin  # Break on Binary Operators
+brkBinSub  # Break on Binary Subtraction
+brk  # Break
+brk  # Break
+Broadcaster  # Broadcaster
+BroadcastTitle  # Broadcast Title
+browse  # Browse Slide Show Mode
+bstr  # Basic String
+buAutoNum  # Auto-Numbered Bullet
+bubbleChart  # Bubble Charts
+bubble3D  # 3D Bubble
+buClr  # Color Specified
+buClrTx  # Follow Text
+buFont  # Specified
+buChar  # Character Bullet
+buNone  # No Bullet
+buSzPct  # Bullet Size Percentage
+buSzTx  # Bullet Size Follows Text
+by  # By
+by  # By
+cacheField  # PivotCache Field
+cacheFields  # PivotCache Fields
+cacheHierarchies  # PivotCache Hierarchies
+cacheHierarchy  # PivotCache Hierarchy
+cacheSource  # PivotCache Source Description
+calcChain  # Calculation Chain Info
+calcOnExit  # Recalculate Fields When Current Field Is Modified
+calcPr  # Calculation Properties
+calculatedItem  # Calculated Item
+calculatedItems  # Calculated Items
+calculatedMember  # Calculated Member
+calculatedMembers  # Calculated Members
+calendar  # Date Picker Calendar Type
+camera  # Camera
+cantSplit  # Table Row Cannot Break Across Pages
+caps  # Display All Characters As Capital Letters
+caption  # Single Caption Type Definition
+CaseNumber  # Case Number
+catAx  # Category Axis Data
+cat  # Category
+cat  # Category
+cat  # Category Axis Data
+cat  # Color Transform Category
+catLst  # Category List
+catLst  # Category List
+catLst  # Color Transform Category List
+c  # Cell
+c  # Cell
+cellMerge  # Vertically Merged/Split Table Cells
+cellSmartTag  # Cell Smart Tag
+cellSmartTagPr  # Smart Tag Properties
+cellStyleXfs  # Formatting Records
+cellWatch  # Cell Watch Item
+cellWatches  # Cell Watch Items
+cellXfs  # Cell Formats
+cell3D  # Cell 3-D
+cfRule  # Conditional Formatting Rule
+cfvo  # Conditional Format Value Object
+cGp  # Matrix Column Gap
+cGpRule  # Matrix Column Gap Rule
+circle  # Circle Slide Transition
+citation  # Citation Structured Document Tag
+City  # City
+clickAndTypeStyle  # Paragraph Style Applied to Automatically Generated Paragraphs
+clientData  # Client Data
+close  # Close Shape Path
+clrFrom  # Change Color From
+clrChange  # Color Change Effect
+clrMap  # Color Map
+clrMap  # Color Scheme Map
+clrMapOvr  # Color Map Override
+clrMapOvr  # Color Scheme Map Override
+clrMru  # Color MRU
+clrRepl  # Solid Color Replacement
+clrScheme  # Color Scheme
+clrSchemeMapping  # Theme Color Mappings
+clrTo  # Change Color To
+clrVal  # Color Value
+clsid  # Class ID
+cmAuthor  # Comment Author
+cm  # Comment
+cmd  # Command
+cmLst  # Comment List
+cnfStyle  # Paragraph Conditional Formatting
+cnfStyle  # Table Cell Conditional Formatting
+cnfStyle  # Table Row Conditional Formatting
+cNvCnPr  # Non-Visual Connector Shape Drawing Properties
+cNvContentPartPr  # Non-Visual Content Part Drawing Properties
+cNvCxnSpPr  # Non-Visual Connection Shape Drawing Properties
+cNvCxnSpPr  # Non-Visual Connector Shape Drawing Properties
+cNvCxnSpPr  # Non-Visual Connector Shape Drawing Properties
+cNvCxnSpPr  # Non-Visual Connector Shape Drawing Properties
+cNvGraphicFramePr  # Common DrawingML Non-Visual Properties
+cNvGraphicFramePr  # Non-Visual Graphic Frame Drawing Properties
+cNvGraphicFramePr  # Non-Visual Graphic Frame Drawing Properties
+cNvGraphicFramePr  # Non-Visual Graphic Frame Drawing Properties
+cNvGraphicFramePr  # Non-Visual Graphic Frame Drawing Properties
+cNvGrpSpPr  # Non-Visual Group Shape Drawing Properties
+cNvGrpSpPr  # Non-Visual Group Shape Drawing Properties
+cNvGrpSpPr  # Non-Visual Group Shape Drawing Properties
+cNvGrpSpPr  # Non-Visual Group Shape Drawing Properties
+cNvGrpSpPr  # Non-Visual Group Shape Drawing Properties
+cNvPicPr  # Non-Visual Picture Drawing Properties
+cNvPicPr  # Non-Visual Picture Drawing Properties
+cNvPicPr  # Non-Visual Picture Drawing Properties
+cNvPicPr  # Non-Visual Picture Drawing Properties
+cNvPicPr  # Non-Visual Picture Drawing Properties
+cNvPr  # Non-Visual Drawing Properties
+cNvPr  # Non-Visual Drawing Properties
+cNvPr  # Non-Visual Drawing Properties
+cNvPr  # Non-Visual Drawing Properties
+cNvPr  # Non-Visual Drawing Properties
+cNvPr  # Non-Visual Drawing Properties
+cNvSpPr  # Connection Non-Visual Shape Properties
+cNvSpPr  # Non-Visual Drawing Properties for a Shape
+cNvSpPr  # Non-Visual Drawing Properties for a Shape
+cNvSpPr  # Non-Visual Shape Drawing Properties
+cNvSpPr  # Non-Visual Shape Drawing Properties
+colBreaks  # Vertical Page Breaks
+col  # Column Width & Formatting
+colDelim  # Column Delimiter for Data Source
+colFields  # Column Fields
+colHierarchiesUsage  # Column OLAP Hierarchy References
+colHierarchyUsage  # Column OLAP Hierarchies
+color  # Data Bar Color
+colorFilter  # Color Filter Criteria
+color  # Frameset Splitter Color
+color  # Run Content Color
+colorScale  # Color Scale
+colors  # Colors
+colorsDefHdr  # Color Transform Definition Header
+colorsDefHdrLst  # Color Transform Header List
+cols  # Column Definitions
+cols  # Column Information
+col  # Single Column Definition
+column  # Index of Column Being Mapped
+comb  # Comb Slide Transition
+comboBox  # Combo Box Structured Document Tag
+comment  # Comment
+comment  # Comment Content
+commentPr  # Comment Properties
+commentRangeEnd  # Comment Anchor Range End
+commentRangeStart  # Comment Anchor Range Start
+commentReference  # Comment Content Reference Mark
+comments  # Comments
+comments  # Comments Collection
+Company  # Name of Company
+compat  # Compatibility Settings
+compatSetting  # Custom Compatibility Setting
+Compiler  # Compiler
+Composer  # Composer
+cond  # Condition
+condense  # Condense
+conditionalFormat  # Conditional Formatting
+conditionalFormats  # Conditional Formats
+conditionalFormatting  # Conditional Formatting
+Conductor  # Conductor
+ConferenceName  # Conference or Proceedings Name
+connection  # Connection
+connections  # Connections
+connectString  # Data Source Connection String
+consecutiveHyphenLimit  # Maximum Number of Consecutively Hyphenated Lines
+consolidation  # Consolidation Source
+constr  # Constraint
+constrLst  # Constraint List
+cont  # Effect Container
+contentPart  # Content Part
+contentPart  # Content Part
+contentPart  # Content Part
+contentPart  # Content Part
+contextualSpacing  # Ignore Spacing Above and Below When Using Identical Styles
+continuationSeparator  # Continuation Separator Mark
+contourClr  # Contour Color
+control  # Embedded Control
+control  # Embedded Control
+control  # Embedded Control
+controls  # List of controls
+Corporate  # Corporate Author
+Counsel  # Counsel
+count  # Matrix Column Count
+CountryRegion  # Country or Region
+cpLocks  # Content Part Locks
+cr  # Carriage Return
+crossAx  # Crossing Axis ID
+crossBetween  # Cross Between
+cs  # Complex Script Font
+cSld  # Common Slide Data
+cSldViewPr  # Common Slide View Properties
+cSp  # Minimum Matrix Column Width
+cs  # Use Complex Script Formatting on Run
+cTn  # Common Time Node Properties
+ctrlPr  # Control Properties
+cubicBezTo  # Draw Cubic Bezier Curve To
+custClr  # Custom color
+custClrLst  # Custom Color List
+custDash  # Custom Dash
+custData  # Customer Data
+custDataLst  # Customer Data List
+custGeom  # Custom Geometry
+customFilter  # Custom Filter Criteria
+customPr  # Custom Property
+customProperties  # Custom Properties
+customSheetView  # Custom Chart Sheet View
+customSheetView  # Custom Sheet View
+customSheetViews  # Custom Chart Sheet Views
+customSheetViews  # Custom Sheet Views
+customWorkbookViews  # Custom Workbook Views
+customXml  # Cell-Level Custom XML Element
+customXmlDelRangeEnd  # Custom XML Markup Deletion End
+customXmlDelRangeStart  # Custom XML Markup Deletion Start
+customXml  # Inline-Level Custom XML Element
+customXmlInsRangeEnd  # Custom XML Markup Insertion End
+customXmlInsRangeStart  # Custom XML Markup Insertion Start
+customXmlMoveFromRangeEnd  # Custom XML Markup Move Source End
+customXmlMoveFromRangeStart  # Custom XML Markup Move Source Start
+customXmlMoveToRangeStart  # Custom XML Markup Move Destination Location Start
+customXmlPr  # Custom XML Element Properties
+customXml  # Row-Level Custom XML Element
+custShow  # Custom Show
+custShow  # Custom Show
+custShowLst  # List of Custom Shows
+custUnit  # Custom Display Unit
+cut  # Cut Slide Transition
+cViewPr  # Common View Properties
+cxn  # Connection
+cxnLst  # Connection List
+cxnLst  # List of Shape Connection Sites
+cxn  # Shape Connection Site
+cxnSp  # Connection Shape
+cxnSp  # Connection Shape
+cxnSp  # Connection Shape
+cxnSp  # Connection Shape
+cxnSpLocks  # Connection Shape Locks
+dataBar  # Data Bar
+dataBinding  # XML Mapping
+dataConsolidate  # Data Consolidate
+data  # Data Cannot Be Changed
+dataField  # Data Field Item
+dataFields  # Data Fields
+dataModel  # Data Model
+dataRef  # Data Consolidation Reference
+dataRefs  # Data Consolidation References
+dataSource  # Data Source File Path
+datastoreItem  # Custom XML Data Properties
+dataType  # Data Source Type
+dataValidation  # Data Validation
+dataValidations  # Data Validations
+dateAx  # Date Axis
+date  # Date and Time
+date  # Date Structured Document Tag
+dateFormat  # Date Display Mask
+dateGroupItem  # Date Grouping
+date1904  # 1904 Date System
+DayAccessed  # Day Accessed
+Day  # Day
+dayLong  # Date Block - Long Day Format
+dayShort  # Date Block - Short Day Format
+dbPr  # Database Properties
+d  # Date Time
+ddeItem  # DDE Item definition
+d  # Delimiter Object
+ddeLink  # DDE Connection
+ddList  # Drop-Down List Form Field Properties
+decimal  # Decimal
+default  # Default Drop-Down List Item Index
+default  # Default Checkbox Form Field State
+default  # Default Text Box Form Field String
+defaultTableStyle  # Default Table Style for Newly Inserted Tables
+defaultTabStop  # Distance Between Automatic Tab Stops
+defaultTextStyle  # Presentation Default Text Style
+definedName  # Defined Name
+definedName  # Defined Name
+definedNames  # Defined Names
+definedNames  # Named Links
+defJc  # Default Justification
+defPPr  # Default Paragraph Style
+defRPr  # Default Text Run Properties
+deg  # Degree
+degHide  # Hide Degree
+del  # Deleted Math Control Character
+del  # Deleted Paragraph
+del  # Deleted Run Content
+del  # Deleted Table Row
+delete  # Delete
+deletedField  # Deleted Field
+delInstrText  # Deleted Field Code
+delText  # Deleted Text
+den  # Denominator
+Department  # Department
+depthPercent  # Depth Percent
+desc  # Description
+desc  # Description
+description  # Description for Entry
+desc  # Style Label Description
+destination  # Merged Document Destination
+dgm  # Diagram to Animate
+diagonal  # Diagonal
+dialogsheet  # Dialog Sheet
+diamond  # Diamond Slide Transition
+diff  # Differential
+DigSig  # Digital Signature
+dimension  # OLAP Dimension
+dimensions  # OLAP Dimensions
+dimension  # Worksheet Dimensions
+dir  # Bidirectional Embedding Level
+dir  # Diagram Direction
+Director  # Director
+dirty  # Invalidated Field Cache
+discretePr  # Discrete Grouping Properties
+dispBlanksAs  # Display Blanks As
+dispDef  # Use Display Math Defaults
+dispEq  # Display Equation
+displayHorizontalDrawingGridEvery  # Distance between Horizontal Gridlines
+displayVerticalDrawingGridEvery  # Distance between Vertical Gridlines
+dispUnitsLbl  # Display Units Label
+dissolve  # Dissolve Slide Transition
+divId  # Associated HTML div ID
+divId  # Associated HTML div ID
+div  # Information About Single HTML div Element
+divsChild  # Child div Elements Contained within Current div
+dk1  # Dark 1
+dk2  # Dark 2
+dLbl  # Data Label
+dLblPos  # Data Label Position
+dLbls  # Data Labels
+docDefaults  # Document Default Paragraph and Run Properties
+docGrid  # Document Grid
+docPartBody  # Contents of Glossary Document Entry
+docPartCategory  # Document Part Category Filter
+docPart  # Document Part Reference
+docPart  # Glossary Document Entry
+docPartList  # Document Part Gallery Structured Document Tag
+docPartObj  # Built-In Document Part Structured Document Tag
+docPartPr  # Glossary Document Entry Properties
+docParts  # List of Glossary Document Entries
+docPartUnique  # Built-In Document Part
+docPr  # Drawing Object Non-Visual Properties
+document  # Document
+documentProtection  # Document Editing Restrictions
+documentType  # Document Classification
+docVars  # Document Variables
+doNotAutoCompressPictures  # Do Not Automatically Compress Images
+doNotEmbedSmartTags  # Remove Smart Tags When Saving
+doNotExpandShiftReturn  # Don't Justify Lines Ending in Soft Line Break
+doNotHyphenateCaps  # Do Not Hyphenate Words in ALL CAPITAL LETTERS
+doNotLeaveBackslashAlone  # Display Backslash As Yen Sign
+doNotOrganizeInFolder  # Do Not Place Supporting Files in Subdirectory
+doNotRelyOnCSS  # Do Not Rely on CSS for Font Face Formatting
+doNotSuppressBlankLines  # Remove Blank Lines from Merged Documents
+doNotTrackFormatting  # Do Not Track Formatting Revisions When Tracking Revisions
+doNotUseLongFileNames  # Do Not Use File Names Longer than 8.3 Characters
+doNotUseMarginsForDrawingGridOrigin  # Do Not Use Margins for Drawing Grid Origin
+doNotValidateAgainstSchema  # Do Not Validate Custom XML Markup Against Schemas
+downBars  # Down Bars
+dPr  # Delimiter Properties
+dPt  # Data Point
+drawing  # Drawing
+drawing  # DrawingML Object
+drawingGridHorizontalOrigin  # Drawing Grid Horizontal Origin Point
+drawingGridHorizontalSpacing  # Drawing Grid Horizontal Grid Unit Size
+drawingGridVerticalOrigin  # Drawing Grid Vertical Origin Point
+drawingHF  # Drawing Reference in Header Footer
+dropDownList  # Drop-Down List Structured Document Tag
+dropLines  # Drop Lines
+ds  # Dash Stop
+dstrike  # Double Strikethrough
+dTable  # Data Table
+duotone  # Duotone Effect
+dxf  # Formatting
+dxfs  # Formats
+dynamicAddress  # Use Country-Based Address Field Ordering
+dynamicFilter  # Dynamic Filter
+ea  # East Asian Font
+eastAsianLayout  # East Asian Typography Settings
+Editor  # Editor
+effect  # Animated Text Effect
+effectClrLst  # Effect Color List
+effectDag  # Effect Container
+effect  # Effect
+effect  # Effect
+effectExtent  # Object Extents Including Effects
+effectRef  # Effect Reference
+effectStyle  # Effect Style
+effectStyleLst  # Effect Style List
+else  # Else
+embedBold  # Bold Style Font Style Embedding
+embedBoldItalic  # Bold Italic Font Style Embedding
+embeddedFont  # Embedded Font
+embeddedFontLst  # Embedded Font List
+embed  # Embedded Object or Control
+embedItalic  # Italic Font Style Embedding
+embedRegular  # Regular Font Style Embedding
+embedSystemFonts  # Embed Common System Fonts
+embedTrueTypeFonts  # Embed TrueType Fonts
+emboss  # Embossing
+em  # Emphasis Mark
+empty  # Empty
+encoding  # Output Encoding When Saving as Web Page
+end  # Audio End Time
+endCondLst  # End Conditions List
+endCxn  # Connection End
+endChr  # Delimiter Ending Character
+endnote  # Endnote Content
+endnotePr  # Section-Wide Endnote Properties
+endnoteRef  # Endnote Reference Mark
+endnotes  # Document Endnotes
+endnote  # Special Endnote List
+endParaRPr  # End Paragraph Run Properties
+endSnd  # Stop Sound Action
+end  # Table Cell Trailing Edge Border
+end  # Table Cell Trailing Margin Default
+end  # Table Cell Trailing Margin Exception
+end  # Table Trailing Edge Border
+end  # Trailing Edge Border
+entries  # Entries
+entryMacro  # Script Function to Execute on Form Field Entry
+eqArr  # Array Object
+equation  # Equation Structured Document Tag
+errBars  # Error Bars
+errBarType  # Error Bar Type
+errDir  # Error Bar Direction
+error  # Error Status Code
+errValType  # Error Bar Value Type
+evenAndOddHeaders  # Different Even/Odd Page Headers and Footers
+evenFooter  # Even Footer
+evenFooter  # Even Page Footer
+evenHeader  # Even Header
+evenHeader  # Even Page Header
+excl  # Exclusive
+exitMacro  # Script Function to Execute on Form Field Exit
+explosion  # Explosion
+extend  # Extend
+extent  # Drawing Object Size
+externalBook  # External Workbook
+externalData  # External Data Relationship
+externalLink  # External Reference
+externalReference  # External Reference
+externalReferences  # External References
+ext  # Extension
+ext  # Extension
+ext  # Extension
+ext  # Extension
+ext  # Extents
+extLst  # Extension List
+extLst  # Extension List
+extLst  # Extension List
+extLst  # Extension List
+extLst  # Extension List with Modification Flag
+extLst  # Chart Extensibility
+extraClrScheme  # Extra Color Scheme
+extraClrSchemeLst  # Extra Color Scheme List
+extrusionClr  # Extrusion Color
+ext  # Shape Extent
+ext  # Shape Extent
+fade  # Fade Slide Transition
+family  # Font Family
+family  # Font Family
+ffData  # Form Field Properties
+f  # Formula
+f  # Formula
+f  # Fraction Object
+fgClr  # Foreground color
+fHdr  # First Row of Data Source Contains Column Names
+field  # Field
+fieldGroup  # Field Group Properties
+fieldMapData  # External Data Source to Merge Field Mapping
+fieldsUsage  # Fields Usage
+fieldUsage  # PivotCache Field Id
+fileRecoveryPr  # File Recovery Properties
+fileSharing  # File Sharing
+filetime  # File Time
+fillClrLst  # Fill Color List
+fill  # Fill
+fill  # Fill
+fill  # Fill
+fillOverlay  # Fill Overlay Effect
+fillRect  # Fill Rectangle
+fillRef  # Fill Reference
+fills  # Fills
+fillStyleLst  # Fill Style List
+fillToRect  # Fill To Rectangle
+filterColumn  # AutoFilter Column
+filter  # PivotTable Advanced Filter
+filters  # Filter Criteria
+firstCol  # First Column
+firstFooter  # First Footer
+firstFooter  # First Page Footer
+firstHeader  # First Header
+firstHeader  # First Page Header
+First  # Person's First, or Given, Name
+firstRow  # First Row
+firstSliceAng  # First Slice Angle
+fitText  # Manual Run Width
+flatBorders  # Frameset Splitter Border Style
+flatTx  # No text in 3D scene
+fldChar  # Complex Field Character
+fldSimple  # Simple Field
+fld  # Text Field
+fltVal  # Float Value
+fmtId  # Format ID
+fmtScheme  # Format Scheme
+fName  # Function Name
+folHlink  # Followed Hyperlink
+font  # Embedded Font Name
+font  # Properties for a Single Font
+fontRef  # Font Reference
+fonts  # Fonts
+fonts  # Font Table Root Element
+fontScheme  # Font Scheme
+footerReference  # Footer Reference
+footnotePr  # Document-Wide Footnote Properties
+footnotePr  # Section-Wide Footnote Properties
+footnoteReference  # Footnote Reference
+footnoteRef  # Footnote Reference Mark
+footnotes  # Document Footnotes
+footnote  # Special Footnote List
+forceUpgrade  # Upgrade Document on Open
+formatCode  # Format Code
+format  # PivotTable Format
+formats  # PivotTable Formats
+format  # Text Box Form Field Formatting
+formatting  # Formatting
+formsDesign  # Structured Document Tag Placeholder Text Should be Resaved
+formula  # Formula
+forward  # Forward
+fPr  # Fraction Properties
+frameLayout  # Frameset Layout
+framePr  # Text Frame Properties
+frameset  # Nested Frameset Definition
+framesetSplitbar  # Frameset Splitter Properties
+from  # From
+from  # From
+from  # Starting Anchor Point
+from  # Starting Anchor Point
+ftr  # Footer
+func  # Function Apply Object
+funcPr  # Function Properties
+functionGroup  # Function Group
+futureMetadata  # Future Metadata
+gallery  # Gallery Associated With Entry
+gamma  # Gamma
+gapWidth  # Gap Width
+gd  # Shape Guide
+glossaryDocument  # Glossary Document Root Element
+glow  # Glow Effect
+gradFill  # Gradient Fill
+gradientFill  # Gradient
+graphicData  # Graphic Object Data
+graphicEl  # Graphic Element
+graphicFrame  # Graphic Frame
+graphicFrame  # Graphic Frame
+graphicFrame  # Graphic Frame
+graphicFrame  # Graphic Frame
+graphicFrameLocks  # Graphic Frame Locks
+gray  # Gray
+grayscl  # Gray Scale Effect
+green  # Green
+greenMod  # Green Modulation
+gridAfter  # Grid Columns After Last Cell
+gridBefore  # Grid Columns Before First Cell
+gridCol  # Grid Column Definition
+gridCol  # Table Grid Column
+gridSpacing  # Grid Spacing
+gridSpan  # Grid Columns Spanned by Current Table Cell
+group  # Group Structured Document Tag
+groupChr  # Group-Character Object
+groupChrPr  # Group-Character Properties
+grouping  # Bar Grouping
+grouping  # Grouping
+groupItems  # OLAP Group Items
+groupLevel  # OLAP Grouping Levels
+groupLevels  # OLAP Grouping Levels
+groupMember  # OLAP Group Member
+groupMembers  # OLAP Group Members
+group  # OLAP Group
+groups  # OLAP Level Groups
+grow  # n-ary Grow
+grpFill  # Group Fill
+grpSp  # Group shape
+grpSp  # Group Shape
+grpSp  # Group Shape
+grpSp  # Group Shape
+grpSp  # Group Shape
+grpSpLocks  # Group Shape Locks
+grpSpPr  # Group Shape Properties
+grpSpPr  # Group Shape Properties
+grpSpPr  # Group Shape Properties
+grpSpPr  # Group Shape Properties
+grpSpPr  # Visual Group Shape Properties
+gsLst  # Gradient Stop List
+guide  # A Guide
+guideLst  # List of Guides
+guid  # Entry ID
+gutterAtTop  # Position Gutter At Top of Page
+handoutMaster  # Handout Master
+handoutMasterId  # Handout Master ID
+handoutMasterIdLst  # List of Handout Master IDs
+hdr  # Header
+headEnd  # Line Head/End Style
+headerFooter  # Header and Footer
+headerFooter  # Header Footer Settings
+header  # Header
+header  # Header Cell Reference
+header  # Header Cell Reference
+headers  # Header Cells Associated With Table Cell
+headers  # Header Cells Associated With Table Cell
+headers  # Revision Headers
+HeadingPairs  # Heading Pairs
+helpText  # Associated Help Text
+hf  # Header/Footer information for a slide master
+h  # Height
+hidden  # Hidden Table Row Marker
+hidden  # Hide Style From User Interface
+HiddenSlides  # Number of Hidden Slides
+hideBot  # Hide Bottom Edge
+hideGrammaticalErrors  # Do Not Display Visual Indication of Grammatical Errors
+hideLeft  # Hide Left Edge
+hideMark  # Ignore End Of Cell Marker In Row Height Calculation
+hideRight  # Hide Right Edge
+hideSpellingErrors  # Do Not Display Visual Indication of Spelling Errors
+hideTop  # Hide Top Edge
+hierBranch  # Organization Chart Branch Style
+highlight  # Text Highlighting
+hiLowLines  # High Low Lines
+hlinkHover  # Hyperlink for Hover
+hlink  # Hyperlink
+hlinkMouseOver  # Mouse-Over Hyperlink
+HLinks  # Hyperlink List
+hMode  # Height Mode
+holeSize  # Hole Size
+horizontal  # Horizontal Inner Borders
+hPercent  # Height Percent
+hpsBaseText  # Phonetic Guide Base Text Font Size
+hps  # Phonetic Guide Text Font Size
+hslClr  # Hue, Saturation, Luminance Color Model
+hsl  # HSL
+hsl  # Hue Saturation Luminance Effect
+hue  # Hue
+hueMod  # Hue Modulate
+hueOff  # Hue Offset
+HyperlinkBase  # Relative Hyperlink Base
+hyperlink  # Hyperlink
+hyperlink  # Hyperlink
+hyperlinks  # Hyperlinks
+HyperlinksChanged  # Hyperlinks Changed
+hyphenationZone  # Hyphenation Zone
+ChapterNumber  # Chapter Number
+characteristic  # Single Characteristic
+Characters  # Total Number of Characters
+charRg  # Character Range
+charset  # Character Set
+charset  # Character Set Supported By Font
+chartFormat  # PivotChart Format
+chartFormats  # PivotChart Formats
+chart  # Chart
+chart  # Chart to Animate
+chartObject  # Chart Object
+chart  # Reference to Chart Part
+chartsheet  # Chart Sheet
+checkBox  # Checkbox Form Field Properties
+checked  # Checkbox Form Field State
+checker  # Checker Slide Transition
+checkErrors  # Mail Merge Error Reporting Setting
+chExt  # Child Extents
+childTnLst  # Children Time Node List
+chMax  # Maximum Children
+chOff  # Child Offset
+choose  # Choose Element
+chPref  # Preferred Number of Children
+chr  # Character
+iconFilter  # Icon Filter
+iconSet  # Icon Set
+idx  # Index
+if  # If
+ignoredError  # Ignored Error
+ignoredErrors  # Ignored Errors
+ignoreMixedContent  # Ignore Mixed Content When Validating Custom XML Markup
+i  # Italic
+i  # Italics
+ilvl  # Numbering Level Reference
+imprint  # Imprinting
+indexedColors  # Color Indexes
+ind  # Paragraph Indentation
+inline  # Inline DrawingML Object
+innerShdw  # Inner Shadow Effect
+inputCells  # Input Cells
+insideH  # Inside Horizontal Border
+insideH  # Table Cell Inside Horizontal Edges Border
+insideH  # Table Inside Horizontal Edges Border
+insideV  # Inside Vertical Border
+insideV  # Table Cell Inside Vertical Edges Border
+insideV  # Table Inside Vertical Edges Border
+ins  # Inserted Math Control Character
+ins  # Inserted Numbering Properties
+ins  # Inserted Paragraph
+ins  # Inserted Table Row
+Institution  # Institution
+intercept  # Intercept
+InternetSiteTitle  # Internet Site Title
+interSp  # Inter-Equation Spacing
+Interviewee  # Interviewee
+Interviewer  # Interviewer
+int  # Integer
+intLim  # Integral Limit Locations
+intraSp  # Intra-Equation Spacing
+Inventor  # Inventor
+invertIfNegative  # Invert if Negative
+invGamma  # Inverse Gamma
+inv  # Inverse
+i  # Row Items
+isLgl  # Display All Levels Using Arabic Numerals
+Issue  # Issue
+italic  # Italic Embedded Font
+item  # PivotTable Field Item
+items  # Field Items
+iterate  # Iterate
+i1  # 1-Byte Signed Integer
+i2  # 2-Byte Signed Integer
+i4  # 4-Byte Signed Integer
+i8  # 8-Byte Signed Integer
+jc  # Justification
+jc  # Paragraph Alignment
+jc  # Table Alignment Exception
+JournalName  # Journal Name
+keepLines  # Keep All Lines On One Page
+keepNext  # Keep Paragraph With Next Paragraph
+kern  # Font Kerning
+kinsoku  # Kinsoku Settings
+kinsoku  # Use East Asian Typography Rules for First and Last Character per Line
+kiosk  # Kiosk Slide Show Mode
+k  # KPI MDX Metadata
+kpi  # OLAP KPI
+kpis  # OLAP KPIs
+label  # Form Field Label
+label  # Structured Document Tag Label
+lang  # Editing Language
+lang  # Languages for Run Content
+lastCol  # Last Column
+Last  # Person's Last, or Family, Name
+lastRenderedPageBreak  # Position of Last Calculated Page Break
+lastRow  # Last Row
+latentStyles  # Latent Style Information
+latin  # Latin Font
+layoutDefHdr  # Layout Definition Header
+layoutDefHdrLst  # Diagram Layout Header List
+layoutDef  # Layout Definition
+layoutNode  # Layout Node
+layoutTarget  # Layout Target
+lblAlgn  # Label Alignment
+lblOffset  # Label Offset
+LCID  # Locale ID
+leaderLines  # Leader Lines
+left  # Left Border
+left  # Left Border
+left  # Left Border for HTML div
+left  # Left Paragraph Border
+legendEntry  # Legend Entry
+legend  # Legend
+legendPos  # Legend Position
+lid  # Date Picker Language ID
+lid  # Language ID for Phonetic Guide
+lid  # Merge Field Name Language ID
+lightRig  # Light Rig
+lim  # Limit
+limLoc  # n-ary Limit Location
+limLow  # Lower-Limit Object
+limUppPr  # Upper-Limit Properties
+limUpp  # Upper-Limit Object
+linClrLst  # Line Color List
+lineChart  # Line Charts
+Lines  # Number of Lines
+lineTo  # Wrapping Polygon Line End Position
+line3DChart  # 3D Line Charts
+linkedToFile  # Maintain Link to Existing File
+linkedTxbx  # Textual contents of shape
+link  # Linked Object or Control
+link  # Linked Style Reference
+LinksUpToDate  # Links Up-to-Date
+linkToQuery  # Query Contains Link to External Query File
+lin  # Linear Gradient Fill
+listEntry  # Drop-Down List Entry
+listItem  # Combo Box List Item
+listItem  # Drop-Down List Item
+listSeparator  # List Separator for Field Code Evaluation
+lit  # Literal
+lnB  # Bottom Border Line Properties
+lnBlToTr  # Bottom-Left to Top-Right Border Line Properties
+lnNumType  # Line Numbering Settings
+ln  # Outline
+lnRef  # Line Reference
+lnR  # Right Border Line Properties
+lnSpc  # Line Spacing
+lnStyleLst  # Line Style List
+lnTlToBr  # Top-Left to Bottom-Right Border Line Properties
+lnT  # Top Border Line Properties
+location  # PivotTable Location
+lockedCanvas  # Locked Canvas Container
+locked  # Style Cannot Be Applied
+lock  # Locking Setting
+longDesc  # Frame Long Description
+lpstr  # LPSTR
+lpwstr  # LPWSTR
+lsdException  # Latent Style Exception
+lstStyle  # Text List Styles
+lt1  # Light 1
+lt2  # Light 2
+lum  # Luminance
+lumMod  # Luminance Modulation
+lumOff  # Luminance Offset
+lvlJc  # Justification
+lvl  # Level
+lvl  # Numbering Level Definition
+lvlOverride  # Numbering Level Definition Override
+lvlPicBulletId  # Picture Numbering Symbol Definition Reference
+lvlText  # Numbering Level Text
+lvl1pPr  # List Level 1 Text Style
+lvl2pPr  # List Level 2 Text Style
+lvl3pPr  # List Level 3 Text Style
+lvl4pPr  # List Level 4 Text Style
+lvl5pPr  # List Level 5 Text Style
+lvl6pPr  # List Level 6 Text Style
+lvl7pPr  # List Level 7 Text Style
+lvl8pPr  # List Level 8 Text Style
+lvl9pPr  # List Level 9 Text Style
+mailAsAttachment  # Merged Document To E-Mail Attachment
+mailMerge  # Mail Merge Settings
+mailSubject  # Merged E-mail or Fax Subject Line
+mainDocumentType  # Source Document Type
+main  # Main
+majorFont  # Major Font
+majorGridlines  # Major Gridlines
+majorTickMark  # Major Tick Mark
+majorTimeUnit  # Major Time Unit
+majorUnit  # Major Unit
+Manager  # Name of Manager
+MapInfo  # XML Mapping
+mappedName  # Predefined Merge Field Name
+maps  # OLAP Measure Group
+Map  # XML Mapping Properties
+marH  # Top and Bottom Margin for Frame
+marker  # Marker
+marker  # Show Marker
+marLeft  # Left Margin for HTML div
+marRight  # Right Margin for HTML div
+marTop  # Top Margin for HTML div
+marW  # Left and Right Margin for Frame
+masterClrMapping  # Master Color Mapping
+mathFont  # Math Font
+mathPr  # Math Properties
+maxDist  # Maximum Distribution
+maxLength  # Text Box Form Field Maximum Length
+max  # Maximum
+mc  # Matrix Column
+mcs  # Matrix Columns
+mdx  # MDX Metadata Record
+mdxMetadata  # MDX Metadata Information
+measureGroup  # OLAP Measure Group
+measureGroups  # OLAP Measure Groups
+Medium  # Medium
+member  # Member
+members  # Members
+mergeCell  # Merged Cell
+mergeCells  # Merge Cells
+metadata  # Metadata
+metadataStrings  # Metadata String Store
+metadataType  # Metadata Type Information
+metadataTypes  # Metadata Types Collection
+Middle  # Person's Middle, or Other, Name
+min  # Minimum
+minorGridlines  # Minor Gridlines
+minorTimeUnit  # Minor Time Unit
+minorUnit  # Minor Unit
+minus  # Minus
+mirrorIndents  # Use Left/Right Indents as Inside/Outside Indents
+mirrorMargins  # Mirror Page Margins
+miter  # Miter Line Join
+m  # Matrix Object
+MMClips  # Total Number of Multimedia Clips
+m  # No Value
+m  # No Value
+modifyVerifier  # Modification Verifier
+MonthAccessed  # Month Accessed
+moveFrom  # Move Source Paragraph
+moveFrom  # Move Source Run Content
+moveFromRangeEnd  # Move Source Location Container - End
+moveFromRangeStart  # Move Source Location Container - Start
+moveTo  # Move Destination Paragraph
+moveTo  # Move Path To
+moveToRangeEnd  # Move Destination Location Container - End
+movie  # Embedded Video
+mpMap  # Member Properties Map
+mp  # OLAP Member Property
+mPr  # Matrix Properties
+mr  # Matrix Row
+mruColors  # MRU Colors
+ms  # Set MDX Metadata
+multiLevelType  # Abstract Numbering Definition Type
+multiLvlStrRef  # Multi Level String Reference
+name  # Abstract Numbering Definition Name
+name  # Category Associated With Entry
+name  # Data Source Name for Column
+name  # Entry Name
+name  # Form Field Name
+name  # Frame Name
+name  # Pivot Name
+naryLim  # n-ary Limit Location
+nary  # n-ary Operator Object
+naryPr  # n-ary Properties
+nc  # New Cell Data
+ndxf  # New Formatting Information
+newsflash  # Newsflash Slide Transition
+nextCondLst  # Next Conditions List
+next  # Style For Next Paragraph
+n  # Numeric
+noAutofit  # No AutoFit
+noBorder  # Do Not Display Frameset Splitters
+noBreakHyphen  # Non Breaking Hyphen Character
+noBreak  # No Break
+noEndnote  # Suppress Endnotes In Document
+noFill  # No Fill
+noLineBreaksAfter  # Custom Set of Characters Which Cannot End a Line
+noLineBreaksBefore  # Custom Set Of Characters Which Cannot Begin A Line
+noMultiLvlLbl  # No Multi-level Labels
+noProof  # Do Not Check Spelling or Grammar
+noPunctuationKerning  # Never Kern Punctuation Characters
+noResizeAllowed  # Frame Cannot Be Resized
+normalViewPr  # Normal View Properties
+normAutofit  # Normal AutoFit
+norm  # Normal
+nor  # Normal Text
+notesMasterIdLst  # List of Notes Master IDs
+notesMaster  # Notes Master
+notes  # Notes Slide
+notesSz  # Notes Slide Size
+notesTextViewPr  # Notes Text View Properties
+notesViewPr  # Notes View Properties
+notTrueType  # Not a TrueType outline Font
+noWrap  # Don't Wrap Cell Content
+null  # Null
+numbering  # Numbering Definitions
+NumberVolumes  # Number of Volumes
+numFmt  # Footnote Numbering Format
+numFmt  # Number Format
+numFmt  # Number Format
+numFmt  # Numbering Format
+numFmts  # Number Formats
+numIdMacAtCleanup  # Last Reviewed Abstract Numbering Definition
+numId  # Numbering Definition Instance Reference
+numLit  # Number Literal
+num  # Numbering Definition Instance
+num  # Numerator
+numPicBullet  # Picture Numbering Symbol Definition
+numPr  # Numbering Definition Instance Reference
+numRef  # Number Reference
+numRestart  # Footnote and Endnote Numbering Restart Location
+numStart  # Footnote and Endnote Numbering Starting Value
+nvCxnSpPr  # Connector Non Visual Properties
+nvCxnSpPr  # Non-Visual Properties for a Connection Shape
+nvCxnSpPr  # Non-Visual Properties for a Connection Shape
+nvGraphicFramePr  # Non-Visual Graphic Frame Properties
+nvGraphicFramePr  # Non-Visual Properties for a Graphic Frame
+nvGraphicFramePr  # Non-Visual Properties for a Graphic Frame
+nvGraphicFramePr  # Non-Visual Properties for a Graphic Frame
+nvGrpSpPr  # Non-Visual Group Shape Properties
+nvGrpSpPr  # Non-Visual Properties for a Group Shape
+nvGrpSpPr  # Non-Visual Properties for a Group Shape
+nvGrpSpPr  # Non-Visual Properties for a Group Shape
+nvPicPr  # Non-Visual Picture Properties
+nvPicPr  # Non-Visual Picture Properties
+nvPr  # Non-Visual Properties
+nvSpPr  # Non-Visual Properties for a Shape
+nvSpPr  # Non-Visual Properties for a Shape
+nvSpPr  # Non-Visual Properties for a Shape
+nvSpPr  # Non-Visual Shape Properties
+nwCell  # Northwest Cell
+objectDefaults  # Object Defaults
+objectEmbed  # Embedded Object Properties
+objectLink  # Linked Object Properties
+objectPr  # Embedded Object Properties
+oblob  # Binary Blob Object
+oc  # Old Cell Data
+oddFooter  # Odd Footer
+oddHeader  # Odd Header
+oddHeader  # Odd Header
+odso  # Office Data Source Object Settings
+odxf  # Old Formatting Information
+off  # Offset
+ofPieChart  # Pie of Pie or Bar of Pie Charts
+ofPieType  # Pie of Pie or Bar of Pie Type
+olapPr  # OLAP Properties
+oldFormula  # Old Formula
+oleChartEl  # Embedded Chart Element
+oleItem  # Object Link Item
+oleItems  # Object Link Items
+oleLink  # Generic Object Link Connection
+oleObject  # Embedded Object
+oleObjects  # Embedded Objects
+oleObj  # Global Element for Embedded objects and Controls
+oleSize  # Embedded Object Size
+oMath  # Office Open XML Math
+oMathPara  # Office Math Paragraph
+oneCellAnchor  # One Cell Anchor Shape Size
+opEmu  # Operator Emulator
+optimizeForBrowser  # Disable Features Not Supported by Target Web Profile
+order  # Order
+order  # Polynomial Trendline Order
+orgChart  # Show Organization Chart User Interface
+orientation  # Axis Orientation
+origin  # View Origin
+ostorage  # Binary Storage Object
+ostream  # Binary Stream Object
+otherStyle  # Slide Master Other Text Style
+outerShdw  # Outer Shadow Effect
+outline  # Display Character Outline
+outlineLvl  # Associated Outline Level
+outline  # Outline
+outlinePr  # Outline Properties
+outlineViewPr  # Outline View Properties
+overflowPunct  # Allow Punctuation to Extend Past Text Extents
+overlap  # Overlap
+overlay  # Overlay
+overrideClrMapping  # Override Color Mapping
+pageBreakBefore  # Start Paragraph on Next Page
+pageField  # Page Field
+pageFields  # Page Field Items
+pageItem  # Page Item
+pageMargins  # Page Margins
+pageMargins  # Page Margins
+page  # Page Items
+pageSetup  # Page Setup
+pageSetUpPr  # Page Setup Properties
+pages  # Page Item Values
+Pages  # Pages
+Pages  # Total Number of Pages
+pane  # View Pane
+panose1  # Panose-1 Typeface Classification Number
+paperSrc  # Paper Source Information
+Paragraphs  # Total Number of Paragraphs
+parameter  # Parameter Properties
+parameters  # Query Parameters
+param  # Parameter
+par  # Parallel Time Node
+PatentNumber  # Patent Number
+pathLst  # List of Shape Paths
+path  # Path Gradient
+path  # Shape Path
+patternFill  # Pattern
+pattFill  # Pattern Fill
+pBdr  # Paragraph Borders
+penClr  # Pen Color for Slide Show
+Performer  # Performer
+PeriodicalTitle  # Periodical Title
+permEnd  # Range Permission End
+permStart  # Range Permission Start
+personalCompose  # E-Mail Message Composition Style
+Person  # Person
+perspective  # Perspective
+pgBorders  # Page Borders
+pgMar  # Page Margins
+pgNum  # Page Number Block
+pgNumType  # Page Numbering Settings
+pgSz  # Page Size
+phant  # Phantom Object
+phantPr  # Phantom Properties
+phoneticPr  # Phonetic Properties
+photoAlbum  # Photo Album Information
+picLocks  # Picture Locks
+picture  # Background Image
+pictureFormat  # Picture Format
+pictureOptions  # Picture Options
+picture  # Picture Structured Document Tag
+pictureStackUnit  # Picture Stack Unit
+pie3DChart  # 3D Pie Charts
+pitch  # Font Pitch
+pivotArea  # Pivot Area
+pivotAreas  # Pivot Areas
+pivotCacheDefinition  # PivotCache Definition
+pivotCache  # PivotCache
+pivotCacheRecords  # PivotCache Records
+pivotField  # PivotTable Field
+pivotFields  # PivotTable Fields
+pivotFmt  # Pivot Format
+pivotFmts  # Pivot Formats
+pivotHierarchies  # PivotTable OLAP Hierarchies
+pivotHierarchy  # OLAP Hierarchy
+pivotSelection  # PivotTable Selection
+pivotSource  # Pivot Source
+pivotTableDefinition  # PivotTable Definition
+pixelsPerInch  # Pixels per Inch for Graphics/Images
+placeholder  # Custom XML Element Placeholder Text
+placeholder  # Structured Document Tag Placeholder Text
+plotArea  # Plot Area
+plotVisOnly  # Plot Visible Only
+plus  # Plus
+p  # Member Property MDX Metadata
+pos  # Comment Position
+pos  # Endnote Placement
+pos  # Footnote Placement
+positionH  # Horizontal Positioning
+position  # Vertically Raised or Lowered Text
+positionV  # Vertical Positioning
+posOffset  # Absolute Position Offset
+pos  # Position
+pos  # Position
+pos  # Shape Position Coordinate
+postSp  # Post-Paragraph Spacing
+p  # Paragraph
+pPrDefault  # Default Paragraph Properties
+pPr  # Numbering Level Associated Paragraph Properties
+pPr  # Paragraph Properties
+pPr  # Paragraph Properties
+pPr  # Previous Paragraph Properties
+pPr  # Style Paragraph Properties
+pPr  # Table Style Conditional Formatting Paragraph Properties
+pPr  # Text Paragraph Properties
+PresentationFormat  # Intended Format of Presentation
+presentation  # Presentation
+presentationPr  # Presentation-wide Properties
+presLayoutVars  # Presentation Layout Variables
+presOf  # Presentation Of
+preSp  # Pre-Paragraph Spacing
+prevCondLst  # Previous Conditions List
+pRg  # Paragraph Text Range
+printerSettings  # Reference to Printer Settings Data
+printFormsData  # Only Print Form Field Content
+printFractionalCharacterWidth  # Print Fractional Character Widths
+printOptions  # Print Options
+printSettings  # Print Settings
+printTwoOnOne  # Print Two Pages Per Sheet
+prnPr  # Printing Properties
+ProducerName  # Producer Name
+ProductionCompany  # Production Company
+progress  # Progress
+proofErr  # Proofing Error Anchor
+proofState  # Spelling and Grammatical Checking State
+Properties  # Application Specific File Properties
+Properties  # Custom File Properties
+protectedRange  # Protected Range
+protectedRanges  # Protected Ranges
+protection  # Protection
+protection  # Protection Properties
+prSet  # Property Set
+prstClr  # Preset Color
+prstDash  # Preset Dash
+prstGeom  # Preset geometry
+prstShdw  # Preset Shadow
+prstTxWarp  # Preset Text Warp
+pStyle  # Paragraph Style's Associated Numbering Level
+pStyle  # Referenced Paragraph Style
+ptab  # Absolute Position Tab Character
+ptCount  # Point Count
+ptLst  # Point List
+pt  # Numeric Point
+pt  # Point
+pt  # Shape Path Point
+pt  # String Point
+PublicationTitle  # Publication Title
+pull  # Pull Slide Transition
+push  # Push Slide Transition
+qFormat  # Primary Style
+quadBezTo  # Draw Quadratic Bezier Curve To
+queryCache  # OLAP Query Cache
+query  # Query
+query  # Query For Data Source Records To Merge
+queryTableField  # QueryTable Field
+queryTable  # Query Table
+queryTableRefresh  # QueryTable Refresh Information
+quickTimeFile  # QuickTime from File
+radarChart  # Radar Charts
+radarStyle  # Radar Style
+rad  # Radical Object
+raf  # Revision AutoFormat
+randomBar  # Random Bar Slide Transition
+rAngAx  # Right Angle Axes
+rangePr  # Range Grouping Properties
+rangeSet  # Range Set
+rangeSets  # Range Sets
+rcft  # Revision Merge Conflict
+rc  # Metadata Record
+rcmt  # Revision Cell Comment
+rCtr  # Rotation Center
+rcv  # Revision Custom View
+rdn  # Revision Defined Name
+readModeInkLockDown  # Freeze Document Layout
+recipientData  # Data About Single Data Source Record
+recipientData  # Reference to Inclusion/Exclusion Data for Data Source
+recipients  # Inclusion/Exclusion Data for Data Source
+rect  # Shape Text Rectangle
+redOff  # Red Offset
+red  # Red
+references  # References
+reflection  # Reflection Effect
+RefOrder  # Reference Order
+regular  # Regular Embedded Font
+relIds  # Explicit Relationships to Diagram Parts
+relOff  # Relative Offset Effect
+relSizeAnchor  # Relative Anchor Shape Size
+removeDateAndTime  # Remove Date and Time from Annotations
+Reporter  # Reporter
+restoredLeft  # Normal View Restored Left Properties
+reviewedList  # Reviewed List
+reviewed  # Reviewed
+revisions  # Revisions
+revisionView  # Visibility of Annotation Types
+rfmt  # Revision Format
+rFonts  # Run Fonts
+rgbColor  # RGB Color
+right  # Right Border
+right  # Right Border
+right  # Right Border for HTML div
+right  # Right Paragraph Border
+rich  # Rich Text
+richText  # Rich Text Structured Document Tag
+ris  # Revision Insert Sheet
+rMargin  # Right Margin
+rot  # Rotation
+rotX  # X Rotation
+rotY  # Y Rotation
+roundedCorners  # Rounded Corners
+rowFields  # Row Fields
+rowHierarchiesUsage  # Row OLAP Hierarchy References
+rowHierarchyUsage  # Row OLAP Hierarchies
+rowItems  # Row Items
+rowOff  # Row Offset
+row  # Row
+row  # Row
+row  # Row
+r  # PivotCache Record
+rPrDefault  # Default Run Properties
+rPrChange  # Revision Information for Run Properties on the Paragraph Mark
+rPr  # Numbering Symbol Run Properties
+rPr  # Previous Run Properties
+rPr  # Previous Run Properties for the Paragraph Mark
+rPr  # Run Properties
+rPr  # Run Properties
+rPr  # Run Properties
+rPr  # Run Properties
+rPr  # Run Properties
+rPr  # Run Properties For Structured Document Tag Contents
+rPr  # Run Properties for the Paragraph Mark
+rPr  # Structured Document Tag End Character Run Properties
+rPr  # Table Style Conditional Formatting Run Properties
+rPr  # Text Run Properties
+rqt  # Revision Query Table
+r  # Rich Text Run
+r  # Run
+rsid  # Revision Identifier for Style Definition
+rsidRoot  # Original Document Revision Save ID
+rsid  # Single Session Revision Save ID
+rsids  # Listing of All Revision Save ID Values
+rsnm  # Revision Sheet Name
+rSpRule  # Row Spacing Rule
+rStyle  # Referenced Character Style
+r  # Text Run
+r  # Text Run
+rtlGutter  # Gutter on Right Side of Page
+rtl  # Right to Left Run
+rtl  # Right To Left Text
+rtn  # Runtime Node Trigger Choice
+rt  # Phonetic Guide Text
+rubyAlign  # Phonetic Guide Text Alignment
+rubyPr  # Phonetic Guide Properties
+ruleLst  # Rule List
+rule  # Rule
+r4  # 4-Byte Real Number
+r8  # 8-Byte Real Number
+sampData  # Sample Data
+satOff  # Saturation Offset
+sat  # Saturation
+saveFormsData  # Only Save Form Field Content
+saveSmartTagsAsXml  # Save Smart Tag Data in XML Property Bag
+saveSubsetFonts  # Subset Fonts When Embedding
+saveThroughXslt  # Custom XSL Transform To Use When Saving As XML File
+saveXmlDataOnly  # Only Save Custom XML Markup
+ScaleCrop  # Thumbnail Display Mode
+scale  # View Scale
+scatterChart  # Scatter Charts
+scatterStyle  # Scatter Style
+scenario  # Scenario
+scenarios  # Scenarios
+scene3d  # 3-D Scene
+scene3d  # 3D Scene Properties
+scrgbClr  # RGB Color Model - Percentage Variant
+scrollbar  # Scrollbar Display Option
+scr  # Script
+sdt  # Block-Level Structured Document Tag
+sdtContent  # Block-Level Structured Document Tag Content
+sdtContent  # Row-Level Structured Document Tag Content
+sdtEndPr  # Structured Document Tag End Character Properties
+sdtPr  # Structured Document Tag Properties
+sdt  # Row-Level Structured Document Tag
+seCell  # Southeast Cell
+secondPiePt  # Second Pie Point
+secondPieSize  # Second Pie Size
+sectPr  # Document Final Section Properties
+sectPrChange  # Revision Information for Section Properties
+sectPr  # Previous Section Properties
+sectPr  # Section Properties
+securityDescriptor  # Security Descriptor
+selection  # Selection
+selection  # Selection
+semiHidden  # Hide Style From Main User Interface
+separator  # Footnote/Endnote Separator Mark
+separator  # Separator
+sepChr  # Delimiter Separator Character
+seq  # Sequence Time Node
+ser  # Area Chart Series
+serAx  # Series Axis
+ser  # Bar Chart Series
+ser  # Bubble Chart Series
+ser  # Line Chart Series
+serLines  # Series Lines
+ser  # Radar Chart Series
+ser  # Scatter Chart Series
+ser  # Surface Chart Series
+serverFormat  # Server Format
+serverFormats  # Server Formats
+set  # OLAP Set
+set  # Set Time Node Behavior
+settings  # Document Settings
+shade  # Shade
+Shading Properties  # CT_Shd
+shadow  # Shadow
+shadow  # Shadow
+shape  # Shape
+shape  # Shape
+SharedDoc  # Shared Document
+sharedItems  # Shared Items
+Shared  # WordprocessingML and DrawingML
+shd  # Run Shading
+shd  # Table Shading
+shd  # Table Shading Exception
+sheetCalcPr  # Sheet Calculation Properties
+sheetData  # External Sheet Data Set
+sheetDataSet  # Cached Worksheet Data
+sheetData  # Sheet Data
+sheetFormatPr  # Sheet Format Properties
+sheetIdMap  # Sheet Id Map
+sheetId  # Sheet Id
+sheetName  # Sheet Name
+sheetNames  # Supporting Workbook Sheet Names
+sheetProtection  # Chart Sheet Protection
+sheetProtection  # Sheet Protection Options
+sheetPr  # Sheet Properties
+sheet  # Sheet Information
+sheets  # Sheets
+sheetView  # Chart Sheet View
+sheetViews  # Chart Sheet Views
+sheetView  # Worksheet View
+ShortTitle  # Short Title
+showBubbleSize  # Show Bubble Size
+showCatName  # Show Category Name
+showDLblsOverMax  # Show Data Labels over Maximum
+showEnvelope  # Show E-Mail Message Header
+showHorzBorder  # Show Horizontal Border
+showingPlcHdr  # Current Contents Are Placeholder Text
+showKeys  # Show Legend Keys
+showLeaderLines  # Show Leader Lines
+showLegendKey  # Show Legend Key
+showNegBubbles  # Show Negative Bubbles
+showOutline  # Show Outline Border
+showPercent  # Show Percent
+showPr  # Presentation-wide Show Properties
+showSerName  # Show Series Name
+showVal  # Show Value
+showVertBorder  # Show Vertical Border
+showXMLTags  # Show Visual Indicators for Custom XML Markup Start/End Locations
+s  # Character Value
+s  # Character Value
+schema  # Custom XML Schema Reference
+schemaRef  # Associated XML Schema
+schemaRefs  # Set of Associated XML Schemas
+Schema  # XML Schema
+scheme  # Scheme
+sideWall  # Side Wall
+sig  # Supported Unicode Subranges and Code Pages
+simplePos  # Simple Positioning Coordinates
+singleXmlCells  # Single Cells
+singleXmlCell  # Table Properties
+si  # String Item
+sizeAuto  # Automatically Size Form Field
+size  # Checkbox Form Field Size
+sizeRepresents  # Size Represents
+size  # Size
+sldAll  # All Slides
+sldIdLst  # List of Slide IDs
+sldId  # Slide ID
+sldLayoutIdLst  # List of Slide Layouts
+sldLayout  # Slide Layout
+sldLst  # List of Presentation Slides
+sldLst  # List of Presentation Slides
+sldMasterIdLst  # List of Slide Master IDs
+sldMasterId  # Slide Master ID
+sldMaster  # Slide Master
+sld  # Presentation Slide
+sld  # Presentation Slide
+sld  # Presentation Slide
+sldRg  # Slide Range
+sldSyncPr  # Slide Synchronization Properties
+sldSz  # Presentation Slide Size
+sldTgt  # Slide Target
+Slides  # Slides Metadata Element
+slideViewPr  # Slide View Properties
+smallCaps  # Small Caps
+smartTag  # Inline-Level Smart Tag
+smartTagPr  # Smart Tag Properties
+smartTagPr  # Smart Tag Properties
+smartTags  # Smart Tags
+smartTags  # Smart Tags
+smartTagType  # Smart Tag Type
+smartTagTypes  # Smart Tag Types
+smartTagType  # Supplementary Smart Tag Information
+smooth  # Smoothing
+snapToGrid  # Use Document Grid Settings For Inter-Character Spacing
+snapToGrid  # Use Document Grid Settings for Inter-Line Paragraph Spacing
+sndAc  # Sound Action
+snd  # Hyperlink Sound
+snd  # Sound
+sndTgt  # Sound Target
+softEdge  # Soft Edge Effect
+softHyphen  # Optional Hyphen Character
+solidFill  # Solid Fill
+sortByTuple  # Sort By Tuple
+sortCondition  # Sort Condition
+sorterViewPr  # Slide Sorter View Properties
+sortState  # Sort State
+sourceFileName  # Source File for Frame
+Sources  # Sources
+SourceType  # Source Type
+spaceForUL  # Add Additional Space Below Baseline For Underlined East Asian Text
+spacing  # Character Spacing Adjustment
+spAutoFit  # Shape AutoFit
+spcAft  # Space After
+spcBef  # Space Before
+spcPts  # Spacing Points
+spDef  # Shape Default
+specVanish  # Paragraph Mark Is Always Hidden
+splitPos  # Split Position
+split  # Split Slide Transition
+splitType  # Split Type
+spPr  # Shape Properties
+spPr  # Shape Properties
+spPr  # Shape Properties
+spPr  # Shape Properties
+spPr  # Shape Properties
+spPr  # Shape Properties
+spPr  # Shape Properties
+spPr  # Shape Properties
+sPre  # Pre-Sub-Superscript Object
+sPrePr  # Pre-Sub-Superscript Properties
+sp  # Shape
+sp  # Shape
+sp  # Shape
+sp  # Shape
+sp3d  # Apply 3D shape properties
+sp3d  # 3-D Shape Properties
+src  # ODSO Data Source File Path
+srcRect  # Source Rectangle
+srgbClr  # RGB Color Model - Hex Variant
+sst  # Shared String Table
+sSubPr  # Subscript Properties
+sSubSupPr  # Sub-Superscript Properties
+sSubSup  # Sub-Superscript Object
+sSup  # Superscript Object
+ST_AdjAngle  # Adjustable Angle Methods
+ST_AdjCoordinate  # Adjustable Coordinate Methods
+ST_AlignV  # Vertical Alignment Definition
+StandardNumber  # Standard Number
+ST_AnimationBuildType  # Animation Build Type
+ST_AnimationDgmBuildType  # Diagram Animation Build Type
+ST_AnimationDgmOnlyBuildType  # Diagram only Animation Types
+ST_AnimationChartBuildType  # Chart Animation Build Type
+ST_AnimationChartOnlyBuildType  # Chart only Animation Types
+ST_AnimLvlStr  # Animation Level String Definition
+ST_AnimOneStr  # One by One Animation Value Definition
+ST_AnnotationVMerge  # Table Cell Vertical Merge Revision Type
+ST_ArrayBaseType  # Array Base Type Simple Type
+start  # Leading Edge Border
+startOverride  # Numbering Level Starting Value Override
+start  # Starting Value
+start  # Table Cell Leading Edge Border
+start  # Table Cell Leading Margin Default
+start  # Table Cell Leading Margin Exception
+start  # Table Leading Edge Border
+start  # Wrapping Polygon Start
+Station  # Station
+statusText  # Associated Status Text
+st  # Audio Start Time
+ST_Axis  # PivotTable Axis
+ST_AxisType  # Axis Type
+ST_AxisTypes  # Axis Type List
+ST_AxisUnit  # Axis Unit
+ST_AxPos  # Axis Position
+ST_BarGrouping  # Bar Grouping
+ST_BendPoint  # Bend Point
+ST_BevelPresetType  # Bevel Presets
+ST_BlackWhiteMode  # Black and White Mode
+ST_BlendMode  # Blend Mode
+ST_BlipCompression  # Blip Compression Type
+ST_BookmarkIdSeed  # Bookmark ID Seed
+ST_Booleans  # Boolean List.
+ST_BoolOperator  # Boolean Constraint
+ST_Border  # Border Styles
+ST_BorderStyle  # Border Line Styles
+ST_BrClear  # Line Break Text Wrapping Restart Location
+ST_BreakBin  # Break Binary Operators
+ST_BreakBinSub  # Break on Binary Subtraction
+ST_Breakpoint  # Breakpoint
+ST_BrType  # Break Types
+ST_BubbleScale  # Bubble Scale
+ST_BubbleScalePercent  # Bubble Scale Percentage
+ST_BuiltInUnit  # Built-In Unit
+ST_CalcMode  # Calculation Mode
+ST_CalendarType  # Calendar Types
+ST_CaptionPos  # Automatic Caption Positioning Values
+ST_CellComments  # Cell Comments
+ST_CellRef  # Cell Reference
+ST_CellSpans  # Cell Spans
+ST_CellStyleXfId  # Cell Style Format Id
+ST_CenterShapeMapping  # Center Shape Mapping
+ST_CfType  # Conditional Format Type
+ST_CfvoType  # Conditional Format Value Object Type
+ST_ClrAppMethod  # Color Application Method Type
+ST_ColID  # Column ID
+ST_CompoundLine  # Compound Line Type
+ST_ConditionalFormattingOperator  # Conditional Format Operators
+stCondLst  # Start Conditions List
+ST_ConformanceClass  # Document Conformance Class Value
+ST_ConnectorDimension  # Connector Dimension
+ST_ConnectorPoint  # Connector Point
+ST_ConnectorRouting  # Connector Routing
+ST_ConstraintRelationship  # Constraint Relationship
+ST_ConstraintType  # Constraint Type
+ST_ContinueDirection  # Continue Direction
+ST_Coordinate  # Coordinate
+ST_CoordinateUnqualified  # Coordinate
+ST_Coordinate32  # Coordinate Point
+ST_CredMethod  # Credentials Method
+ST_CrossBetween  # Cross Between
+ST_Crosses  # Crosses
+stCxn  # Connection Start
+ST_CxnType  # Connection Type
+ST_Cy  # Currency Simple Type
+ST_DataConsolidateFunction  # Data Consolidation Functions
+ST_DataValidationErrorStyle  # Data Validation Error Styles
+ST_DataValidationImeMode  # Data Validation IME Mode
+ST_DataValidationOperator  # Data Validation Operator
+ST_DataValidationType  # Data Validation Type
+ST_DateTime  # Standard Date and Time Storage Format
+ST_DdeValueType  # DDE Value Types
+ST_DecimalNumber  # Decimal Number Value
+ST_DecimalNumberOrPercent  # Percentage Measurement
+ST_DepthPercent  # Depth Percent
+ST_DepthPercentWithSymbol  # Depth Percent with Symbol
+ST_DgmBuildStep  # Diagram Animation Build Steps
+ST_DiagramHorizontalAlignment  # Horizontal Alignment
+ST_DiagramTextAlignment  # Text Alignment
+ST_Direction  # Bidirectional Direction Types
+ST_Direction  # Diagram Direction Definition
+ST_Direction  # Direction
+ST_DispBlanksAs  # Display Blanks As
+ST_DisplacedByCustomXml  # Location of Custom XML Markup Displacing an Annotation
+ST_DLblPos  # Data Label Position
+ST_DocGrid  # Document Grid Types
+ST_DocPartBehavior  # Insertion Behavior Types
+ST_DocPartGallery  # Entry Gallery Types
+ST_DocPartType  # Entry Types
+ST_DocProtect  # Document Protection Types
+ST_DocType  # Document Classification Values
+ST_DrawingElementId  # Drawing Element ID
+ST_DropCap  # Text Frame Drop Cap Location
+ST_DvAspect  # Data View Aspect Type
+ST_DxfId  # Format Id
+ST_DynamicFilterType  # Dynamic Filter
+ST_EditAs  # Resizing Behaviors
+ST_EdnPos  # Endnote Positioning Location
+ST_EffectContainerType  # Effect Container Type
+ST_EighthPointMeasure  # Measurement in Eighths of a Point
+ST_ElementType  # Data Point Type
+ST_ElementTypes  # Diagream Layout Node Type List
+ST_Em  # Emphasis Mark Type
+ST_ErrBarType  # Error Bar Type
+ST_ErrDir  # Error Bar Direction
+ST_Error  # Error Status Code Simple Type
+ST_ErrValType  # Error Value Type
+ST_ExternalConnectionType  # Text Field Datatype
+ST_FallbackDimension  # Fallback Dimension
+ST_FFHelpTextVal  # Help Text Value
+ST_FFName  # Form Field Name Value
+ST_FFStatusTextVal  # Status Text Value
+ST_FFTextType  # Text Box Form Field Type Values
+ST_FieldSortType  # Field Sort Type
+ST_FileType  # File Type
+ST_FillId  # Fill Id
+ST_FirstSliceAng  # First Slice Angle
+ST_FixedPercentage  # Fixed Percentage
+ST_FlowDirection  # Flow Direction
+ST_FontCollectionIndex  # Font Collection Index
+ST_FontFamily  # Font Family
+ST_FontFamily  # Font Family Value
+ST_FontId  # Font Id
+ST_FontScheme  # Font scheme Styles
+ST_FormatAction  # PivotTable Format Types
+ST_FormulaExpression  # Formula Expression Type
+ST_Formula  # Formula
+ST_FOVAngle  # Field of View Angle
+ST_FrameLayout  # Frameset Layout Order
+ST_FrameScrollbar  # Frame Scrollbar Visibility
+ST_FtnEdn  # Footnote or Endnote Type
+ST_FType  # Fraction Type
+ST_FunctionArgument  # Function Argument
+ST_FunctionOperator  # Function Operator
+ST_FunctionType  # Function Type
+ST_FunctionValue  # Function Value
+ST_GapAmount  # Gap Amount
+ST_GapAmountPercent  # Gap Amount Percentage
+ST_GeomGuideFormula  # Geometry Guide Formula Properties
+ST_GeomGuideName  # Geometry Guide Name Properties
+ST_GradientType  # Gradient Type
+ST_GroupBy  # Values Group By
+ST_Grouping  # Grouping
+ST_Guid  # 128-Bit GUID
+ST_HAnchor  # Horizontal Anchor Location
+ST_HdrFtr  # Header or Footer Type
+ST_HeightRule  # Height Rule
+ST_HexColorAuto  # ‘Automatic’ Color Value
+ST_HexColor  # Color Value
+ST_HexColorRGB  # Hexadecimal Color Value
+ST_HierarchyAlignment  # Hierarchy Alignment
+ST_HierBranchStyle  # Hierarchy Branch Style Definition
+ST_HighlightColor  # Text Highlight Colors
+ST_Hint  # Font Type Hint
+ST_HoleSize  # Hole Size
+ST_HoleSizePercent  # Hole Size Percentage
+ST_HorizontalAlignment  # Horizontal Alignment Type
+ST_HPercent  # Height Percent
+ST_HPercentWithSymbol  # Height Percent with Symbol
+ST_HpsMeasure  # Measurement in Half-Points
+ST_HtmlFmt  # HTML Formatting Handling
+ST_HueDir  # Hue Direction
+ST_ChapterSep  # Chapter Separator Types
+ST_ChartBuildStep  # Chart Animation Build Step
+ST_ChildAlignment  # Child Alignment
+ST_ChildDirection  # Child Direction
+ST_ChildOrderType  # Child Order
+ST_IconSetType  # Icon Set Type
+ST_Index  # Index
+ST_Index1  # 1-Based Index
+ST_InfoTextType  # Help or Status Text Type
+ST_Ints  # Integer List
+ST_ItemType  # PivotItem Type
+ST_Jc  # Horizontal Alignment Type
+ST_JcTable  # Table Alignment Type
+ST_LayoutMode  # Layout Mode
+ST_LayoutShapeType  # Layout Shape Type
+ST_LayoutTarget  # Layout Target
+ST_LblAlgn  # Label Alignment
+ST_LblOffset  # Label Offset
+ST_LblOffsetPercent  # Label Offset Percentage
+ST_LegendPos  # Legend Position
+ST_LevelSuffix  # Content Between Numbering Symbol and Paragraph Text
+ST_LightRigDirection  # Light Rig Direction
+ST_LightRigType  # Light Rig Type
+ST_LimLoc  # Limit Location
+ST_LinearDirection  # Linear Direction
+ST_LineCap  # End Line Cap
+ST_LineEndLength  # Line End Length
+ST_LineEndType  # Line End Type
+ST_LineNumberRestart  # Line Numbering Restart Position
+ST_LineSpacingRule  # Line Spacing Rule
+ST_LineWidth  # Line Width
+ST_Lock  # Locking Types
+ST_LogBase  # Logarithmic Base
+ST_LongHexNumber  # Eight Digit Hexadecimal Value
+ST_MacroName  # Script Subroutine Name Value
+ST_MailMergeDataType  # Mail Merge Data Source Type Values
+ST_MailMergeDest  # Merged Document Destination Types
+ST_MailMergeDocType  # Source Document Types
+ST_MailMergeOdsoFMDFieldType  # Merge Field Mapping Types
+ST_MailMergeSourceType  # Mail Merge ODSO Data Source Types
+ST_MarkerCoordinate  # Chart Marker Coordinate Value
+ST_MarkerSize  # Marker Size
+ST_MdxFunctionType  # MDX Function Type
+ST_MdxKPIProperty  # MDX KPI Property
+ST_MdxSetOrder  # MDX Set Order
+ST_MeasurementOrPercent  # Measurement or Percentage Value
+ST_Merge  # Merged Cell Type
+ST_ModelId  # Model Identifier
+ST_MultiLevelType  # Numbering Definition Type
+ST_NodeCount  # Number of Nodes Definition
+ST_NodeVerticalAlignment  # Node Vertical Alignment
+ST_NumberFormat  # Numbering Format
+ST_NumFmtId  # Number Format Id
+ST_ObjectDrawAspect  # Embedded Object Representations
+ST_Objects  # Object Display Types
+ST_ObjectUpdateMode  # Embedded Object Update Modes
+stockChart  # Stock Charts
+ST_Offset  # Offset
+ST_OfPieType  # Pie of Pie or Bar of Pie Type
+ST_OleObjectFollowColorScheme  # Embedded object to Follow Color Scheme
+ST_OleUpdate  # OLE Update Types
+ST_OnOff  # On/Off Value
+ST_OnOffStyleType  # On/Off Style Type
+stop  # Gradient Stop
+storage  # Binary Storage
+ST_Order  # Order
+storeMappedDataAs  # Custom XML Data Date Storage Format
+ST_OverlapPercent  # Overlap Percentage
+ST_PageBorderDisplay  # Page Border Display Options
+ST_PageBorderOffset  # Page Border Positioning Base
+ST_PageBorderZOrder  # Page Border Z-Order
+ST_PageOrder  # Page Order
+ST_PageOrientation  # Page Orientation
+ST_PageSetupOrientation  # Printed Page Orientation
+ST_PaneState  # Pane State
+ST_Panose  # Panose-1 Number
+ST_ParameterId  # Parameter Identifier
+ST_ParameterType  # Parameter Type
+ST_ParameterVal  # Parameter Values
+ST_PathFillMode  # Path Fill Mode
+ST_PathShadeType  # Path Shade Type
+ST_PatternType  # Pattern Type
+ST_PenAlignment  # Alignment Type
+ST_Percentage  # Percentage
+ST_Period  # Period
+ST_Perspective  # Perspective
+ST_PhoneticAlignment  # Phonetic Alignment Types
+ST_PhoneticType  # Phonetic Type
+ST_PhotoAlbumFrameShape  # Photo Album Shape for Photo Mask
+ST_PhotoAlbumLayout  # Photo Album Layout Definition
+ST_PictureFormat  # Picture Format
+ST_PictureStackUnit  # Picture Stack Unit
+ST_PitchFamily  # Pitch Family
+ST_Pitch  # Font Pitch Value
+ST_PivotAreaType  # Rule Type
+ST_PivotFilterType  # Pivot Filter Types
+ST_PlaceholderSize  # Placeholder Size
+ST_PlaceholderType  # Placeholder IDs
+ST_PointMeasure  # Measurement in Points
+ST_PositiveCoordinate  # Positive Coordinate
+ST_PositiveCoordinate32  # Positive Coordinate Point
+ST_PositiveFixedAngle  # Positive Fixed Angle
+ST_PositiveFixedPercentage  # Positive Fixed Percentage
+ST_PositiveFixedPercentage  # Positive Fixed Percentage Value with Sign
+ST_PositivePercentage  # Positive Percentage Value with Sign
+ST_PositivePercentage  # Positive Percentage Value with Sign
+ST_PositiveUniversalMeasure  # Positive Universal Measurement
+ST_PresetCameraType  # Preset Camera Type
+ST_PresetColorVal  # Preset Color Value
+ST_PresetLineDashVal  # Preset Line Dash Value
+ST_PresetMaterialType  # Preset Material Type
+ST_PresetPatternVal  # Preset Pattern Value
+ST_PresetShadowVal  # Preset Shadow Type
+ST_PrintColorMode  # Print Color Mode
+ST_PrintError  # Print Errors
+ST_PrintWhat  # Default print output
+ST_ProofErr  # Proofing Error Type
+ST_Proof  # Proofing State Values
+ST_PrSetCustVal  # Property Set Customized Value
+stp  # Strings in Subtopic
+ST_PTabAlignment  # Absolute Position Tab Alignment
+ST_PTabLeader  # Absolute Position Tab Leader Character
+ST_PTabRelativeTo  # Absolute Position Tab Positioning Base
+ST_PyramidAccentPosition  # Pyramid Accent Position
+ST_PyramidAccentTextMargin  # Pyramid Accent Text Margin
+ST_Qualifier  # Qualifier
+ST_RadarStyle  # Radar Style
+ST_RectAlignment  # Rectangle Alignments
+ST_RefA  # Single Cell Reference
+ST_Ref  # Cell References
+ST_RefMode  # Reference Mode
+ST_Relation  # Characteristic Relationship Types
+ST_RelationshipId  # Explicit Relationship ID
+ST_RelFromH  # Horizontal Relative Positioning
+ST_RelFromV  # Vertical Relative Positioning
+ST_RestartNumber  # Footnote/Endnote Numbering Restart Locations
+stretch  # Stretch
+ST_RevisionAction  # Revision Action Types
+strikeBLTR  # Border Box Strikethrough Bottom-Left to Top-Right
+strikeH  # Border Box Strikethrough Horizontal
+strike  # Single Strikethrough
+strike  # Strike Through
+strikeTLBR  # Border Box Strikethrough Top-Left to Bottom-Right
+strikeV  # Border Box Strikethrough Vertical
+strips  # Strips Slide Transition
+strLit  # String Literal
+ST_RotationPath  # Rotation Path
+ST_RotX  # X Rotation
+ST_RowID  # Row ID
+strRef  # String Reference
+ST_RubyAlign  # Phonetic Guide Text Alignment
+strVal  # String Value
+ST_rwColActionType  # Row Column Action Type
+ST_ScatterStyle  # Scatter Style
+ST_Scope  # Conditional Formatting Scope
+ST_Script  # Script
+ST_SdtDateMappingType  # Date Storage Format Types
+ST_SecondaryChildAlignment  # Secondary Child Alignment
+ST_SecondaryLinearDirection  # Secondary Linear Direction
+ST_SecondPieSizePercent  # Second Pie Size Percentage
+ST_SecondPieSize  # Second Pie Size
+ST_SectionMark  # Section Type
+ST_ShapeID  # Shape ID
+ST_Shape  # Shape
+ST_ShapeType  # Preset Shape Types
+ST_SheetState  # Sheet Visibility Types
+ST_SheetViewType  # Sheet View Type
+ST_ShortHexNumber  # Four Digit Hexadecimal Value
+ST_ShowDataAs  # Show Data As
+ST_SchemeColorVal  # Scheme Color
+ST_SignedHpsMeasure  # Signed Measurement in Half-Points
+ST_SizeRepresents  # Size Represents
+ST_SlideLayoutId  # Slide Layout ID
+ST_SlideLayoutType  # Slide Layout Type
+ST_SlideMasterId  # Slide Master ID
+ST_SlideSizeCoordinate  # Slide Size Coordinate
+ST_SlideSizeType  # Slide Size Type
+ST_SortBy  # Sort By
+ST_SortMethod  # Sort Method
+ST_SortType  # Set Sort Order
+ST_SourceType  # Bibliographic Data Source Types
+ST_SourceType  # PivotCache Type
+ST_SpacingRule  # Spacing Rule
+ST_SplitterBarState  # Splitter Bar State
+ST_SplitType  # Split Type
+ST_Sqref  # Reference Sequence
+ST_StartingElement  # Starting Element
+ST_String  # String
+ST_StyleMatrixColumnIndex  # Style Matrix Column Index
+ST_StyleSort  # Style Sort Settings
+ST_Style  # Style
+ST_Style  # Style
+ST_StyleType  # Style Types
+ST_SystemColorVal  # System Color Value
+ST_TabJc  # Custom Tab Stop Type
+ST_TableStyleType  # Table Style Type
+ST_TableType  # Table Type
+ST_TabTlc  # Custom Tab Stop Leader Character
+ST_TargetScreenSize  # Target Screen Size Types
+ST_TargetScreenSz  # Target Screen Sizes for Generated Web Pages
+ST_TblLayoutType  # Table Layout Type
+ST_TblStyleOverrideType  # Conditional Table Style Formatting Types
+ST_TblWidth  # Table Width Units
+ST_TextAlignment  # Vertical Text Alignment Types
+ST_TextAlignType  # Text Alignment Types
+ST_TextAnchorHorizontal  # Text Anchor Horizontal
+ST_TextAnchoringType  # Text Anchoring Types
+ST_TextAnchorVertical  # Text Anchor Vertical
+ST_TextBlockDirection  # Text Block Direction
+ST_TextboxTightWrap  # Lines To Tight Wrap Within Text Box
+ST_TextBulletSize  # Bullet Size Percentage
+ST_TextBulletSizePercent  # Bullet Size Percentage
+ST_TextBulletStartAtNum  # Start Bullet At Number
+ST_TextCapsType  # Text Cap Types
+ST_TextColumnCount  # Text Column Count
+ST_TextDirection  # Text Direction
+ST_TextDirection  # Text Flow Direction
+ST_TextEffect  # Animated Text Effects
+ST_TextFontAlignType  # Font Alignment Types
+ST_TextFontScalePercentOrPercentString  # Text Font Scale Percentage
+ST_TextFontSize  # Text Font Size
+ST_TextHAlign  # Comment Text Horizontal Alignment
+ST_TextHorzOverflowType  # Text Horizontal Overflow Types
+ST_TextIndentLevelType  # Text Indent Level Type
+ST_TextMargin  # Text Margin
+ST_TextPoint  # Text Point
+ST_TextPointUnqualified  # Text Point
+ST_TextScalePercent  # Text Expansion/Compression Percentage
+ST_TextShapeType  # Preset Text Shape Types
+ST_TextSpacingPercentOrPercentString  # Text Spacing Percent
+ST_TextSpacingPoint  # Text Spacing Point
+ST_TextStrikeType  # Text Strike Type
+ST_TextTabAlignType  # Text Tab Alignment Types
+ST_TextTypeface  # Text Typeface
+ST_TextUnderlineType  # Text Underline Types
+ST_TextVAlign  # Comment Text Vertical Alignment
+ST_TextVerticalType  # Vertical Text Types
+ST_TextVertOverflowType  # Text Vertical Overflow
+ST_TextWrappingType  # Text Wrapping Types
+ST_ThemeColor  # Theme Color
+ST_Theme  # Theme Font
+ST_ThicknessPercent  # Thickness Percentage
+ST_Thickness  # Thickness Percentage
+ST_TickLblPos  # Tick Label Position
+ST_TickMark  # Tick Mark
+ST_TileFlipMode  # Tile Flip Mode
+ST_TimePeriod  # Time Period Types
+ST_TimeUnit  # Time Unit
+ST_TLAnimateBehaviorValueType  # Time List Animate Behavior Value Types
+ST_TLAnimateColorDirection  # Time List Animate Color Direction
+ST_TLBehaviorAccumulateType  # Behavior Accumulate Type
+ST_TLBehaviorAdditiveType  # Behavior Additive Type
+ST_TLBehaviorOverrideType  # Behavior Override Type
+ST_TLCommandType  # Command Type
+ST_TLDiagramBuildType  # Diagram Build Types
+ST_TLChartSubelementType  # Chart Subelement Type
+ST_TLNextActionType  # Next Action Type
+ST_TLOleChartBuildType  # Embedded Chart Build Type
+ST_TLPreviousActionType  # Previous Action Type
+ST_TLTimeAnimateValueTime  # Animation Time
+ST_TLTimeNodeFillType  # Time Node Fill Type
+ST_TLTimeNodeID  # Time Node ID
+ST_TLTimeNodeMasterRelation  # Time Node Master Relation
+ST_TLTimeNodePresetClassType  # Time Node Preset Class Type
+ST_TLTimeNodeRestartType  # Time Node Restart Type
+ST_TLTimeNodeType  # Time Node Type
+ST_TLTime  # Time
+ST_TLTriggerEvent  # Trigger Event
+ST_TLTriggerRuntimeNode  # Trigger RunTime Node
+ST_TotalsRowFunction  # Totals Row Function Types
+ST_TransitionCornerDirectionType  # Transition Corner Direction Type
+ST_TransitionEightDirectionType  # Transition Eight Direction
+ST_TransitionInOutDirectionType  # Transition In/Out Direction Type
+ST_TransitionSideDirectionType  # Transition Side Direction Type
+ST_TwipsMeasure  # Measurement in Twentieths of a Point
+ST_Type  # Top N Evaluation Type
+ST_UcharHexNumber  # Two Digit Hexadecimal Value
+ST_Underline  # Underline Patterns
+ST_UnderlineValues  # Underline Types
+ST_UnsignedDecimalNumber  # Unsigned Decimal Number Value
+ST_UnSignedInteger  # Unsigned integer.
+ST_UnsignedIntHex  # Hex Unsigned Integer
+ST_UpdateLinks  # Update Links Behavior Types
+ST_VAnchor  # Vertical Anchor Location
+ST_VectorBaseType  # Vector Base Type Simple Type
+ST_VerticalAlignment  # Vertical Alignment
+ST_VerticalAlignRun  # Vertical Positioning Location
+ST_VerticalJc  # Vertical Alignment Type
+ST_ViewType  # List of View Types
+ST_Visibility  # Visibility Types
+ST_VolValueType  # Volatile Dependency Value Types
+ST_WebSourceType  # Web Source Type
+ST_WmlColorSchemeIndex  # Theme Color Reference
+ST_WrapDistance  # Distance from Text
+ST_Wrap  # Text Wrapping around Text Frame Type
+ST_XAlign  # Horizontal Alignment Location
+ST_XmlDataType  # XML Data Types
+ST_XmlName  # XML Name
+ST_Xstring  # Escaped String
+ST_YAlign  # Vertical Alignment Location
+style  # Associated Paragraph Style Name
+styleData  # Style Data
+styleDefHdrLst  # List of Style Definition Headers
+styleDefHdr  # Style Definition Header
+styleDef  # Style Definition
+styleLbl  # Style Label
+styleLbl  # Style Label
+styleLink  # Numbering Style Definition
+styleLockQFSet  # Prevent Replacement of Styles Part
+styleLockTheme  # Prevent Modification of Themes Part
+stylePaneFormatFilter  # Suggested Filtering for List of Document Styles
+stylePaneSortMethod  # Suggested Sorting for List of Document Styles
+style  # Shape Style
+style  # Shape Style
+style  # Shape Style
+style  # Shape Style
+style  # Shape Style
+style  # Shape Style
+styleSheet  # Style Sheet
+styles  # Style Definitions
+style  # Style
+style  # Style Definition
+sty  # style
+subDoc  # Anchor for Subdocument Location
+subSp  # Subshape
+subTnLst  # Sub-TimeNodes List
+suff  # Content Between Numbering Symbol and Paragraph Text
+summaryLength  # Percentage of Document to Use When Generating Summary
+suppressAutoHyphens  # Suppress Hyphenation for Paragraph
+suppressLineNumbers  # Suppress Line Numbers for Paragraph
+suppressOverlap  # Prevent Text Frames From Overlapping
+surface3DChart  # 3D Surface Charts
+swCell  # Southwest Cell
+sx  # Horizontal Ratio
+symbol  # Symbol
+sym  # Symbol Font
+sysClr  # System Color
+sy  # Vertical Ratio
+szCs  # Complex Script Font Size
+sz  # Font Size
+sz  # Frame Size
+sz  # Nested Frameset Size
+sz  # Non-Complex Script Font Size
+tabColor  # Sheet Tab Color
+tab  # Custom Tab Stop
+tabIndex  # Form Field Navigation Order Index
+tabIndex  # Structured Document Tag Navigation Order Index
+tableColumn  # Table Column
+Table Measurement  # CT_TblWidth
+tableParts  # Table Parts
+tablePart  # Table Part
+tableStyles  # Table Styles
+tableStyle  # Table Style
+tableStyle  # Table Style
+tabs  # Set of Custom Tab Stops
+tab  # Tab Character
+tab  # Tab Stop
+tagLst  # Programmable Tab List
+tag  # Programmatic Tag
+Tag  # Tag
+tailEnd  # Tail line end style
+targetScreenSz  # Target Screen Size for Web Page
+tavLst  # Time Animated Value List
+tav  # Time Animate Value
+tblBg  # Table Background
+tblBorders  # Table Borders
+tblBorders  # Table Borders Exceptions
+tblCaption  # Table Caption
+tblCellMar  # Table Cell Margin Defaults
+tblCellMar  # Table Cell Margin Exceptions
+tblCellSpacing  # Table Cell Spacing Default
+tblCellSpacing  # Table Cell Spacing Exception
+tblCellSpacing  # Table Row Cell Spacing
+tblGrid  # Previous Table Grid
+tblGrid  # Table Grid
+tblGrid  # Table Grid
+tblHeader  # Repeat Table Row on Every New Page
+tblInd  # Table Indent from Leading Margin
+tblInd  # Table Indent from Leading Margin Exception
+tblLayout  # Table Layout
+tblLayout  # Table Layout Exception
+tblLook  # Table Style Conditional Formatting Settings
+tblLook  # Table Style Conditional Formatting Settings Exception
+tblOverlap  # Floating Table Allows Other Tables to Overlap
+tblpPr  # Floating Table Positioning
+tblPrExChange  # Revision Information for Table-Level Property Exceptions
+tblPrEx  # Table-Level Property Exceptions
+tblPrChange  # Revision Information for Table Properties
+tblPr  # Style Table Properties
+tblPr  # Table Properties
+tblPr  # Table Properties
+tblStyleColBandSize  # Number of Columns in Column Band
+tblStyleLst  # Table Style List
+tblStylePr  # Style Conditional Table Formatting Properties
+tblStyle  # Referenced Table Style
+tblStyle  # Table Style
+tblW  # Preferred Table Width
+tblW  # Preferred Table Width Exception
+tcBdr  # Table Cell Borders
+tcBorders  # Table Cell Borders
+tcFitText  # Fit Text Within Cell
+tcMar  # Single Table Cell Margins
+tcPr  # Previous Table Cell Properties
+tcPr  # Style Table Cell Properties
+tcPr  # Table Cell Properties
+tcPr  # Table Cell Properties
+tcPr  # Table Style Conditional Formatting Table Cell Properties
+tcStyle  # Table Cell Style
+tc  # Table Cell
+tc  # Table Cell
+tcTxStyle  # Table Cell Text Style
+tcW  # Preferred Table Cell Width
+Template  # Name of Document Template
+temporary  # Remove Structured Document Tag When Contents Are Edited
+textAlignment  # Vertical Character Alignment on Line
+textboxTightWrap  # Allow Surrounding Paragraphs to Tight Wrap to Text Box Contents
+text  # Comment's Text Content
+text  # Comment Text
+textDirection  # Text Flow Direction
+textFields  # Fields
+textField  # Text Import Field Settings
+textInput  # Text Box Form Field Properties
+text  # Plain Text Structured Document Tag
+textPr  # Text Import Settings
+Theater  # Theater
+themeElements  # Theme Elements
+themeFontLang  # Theme Font Languages
+themeManager  # Theme Manager
+themeOverride  # Theme Override
+theme  # Theme
+ThesisType  # Thesis Type
+thickness  # Thickness
+tickLblPos  # Tick Label Position
+tickLblSkip  # Tick Label Skip
+tickMarkSkip  # Tick Mark Skip
+tileRect  # Tile Rectangle
+tile  # Tile
+timing  # Slide Timing Information for a Slide Layout
+tint  # Tint
+tint  # Tint Effect
+TitlesOfParts  # Part Titles
+titleStyle  # Slide Master Title Text Style
+title  # Title
+title  # Title
+title  # Title
+title  # Title
+tl2br  # Table Cell Top Left to Bottom Right Diagonal Border
+tl2br  # Top Left to Bottom Right Border
+tmAbs  # Time Absolute
+tmPct  # Time Percentage
+tmplLst  # Template effects
+tmpl  # Template Effects
+tnLst  # Time Node List
+to  # Ending Anchor Point
+to  # Ending Anchor Point
+topLinePunct  # Compress Punctuation at Start of a Line
+top  # Paragraph Border Above Identical Paragraphs
+top  # Table Cell Top Border
+top  # Table Cell Top Margin Default
+top  # Table Cell Top Margin Exception
+top  # Table Top Border
+top  # Top Border
+top  # Top Border
+top  # Top Border
+top  # Top Border for HTML div
+top10  # Top 10
+totalsRowFormula  # Totals Row Formula
+TotalTime  # Total Edit Time Metadata Element
+to  # To
+to  # To
+to  # To
+tpls  # Tuples
+tpl  # Tuple
+trackRevisions  # Track Revisions to Document
+transition  # Slide Transition for a Slide Layout
+trendlineLbl  # Trendline Label
+trendline  # Trendlines
+trendlineType  # Trendline Type
+trHeight  # Table Row Height
+trPrChange  # Revision Information for Table Row Properties
+trPr  # Previous Table Row Properties
+trPr  # Style Table Row Properties
+trPr  # Table Row Properties
+trPr  # Table Style Conditional Formatting Table Row Properties
+tr  # References
+tr  # Table Row
+tr  # Table Row
+tr2bl  # Table Cell Top Right to Bottom Left Diagonal Border
+tr2bl  # Top Right to Bottom Left Border
+t  # Text
+t  # Text
+t  # Text
+t  # Text Body
+t  # Text String
+t  # Tuple MDX Metadata
+tupleCache  # Tuple Cache
+twoCellAnchor  # Two Cell Anchor Shape Size
+txBody  # Shape Text Body
+txbxContent  # Rich Text Box Content Container
+txbx  # Textual contents of shape
+txDef  # Text Default
+txEffectClrLst  # Text Effect Color List
+txEl  # Text Element
+txFillClrLst  # Text Fill Color List
+tx  # Chart Text
+tx  # Series Text
+txSp  # Text Shape
+txStyles  # Slide Master Text Styles
+type  # Entry Type
+type  # Fraction type
+type  # Merge Field Mapping
+type  # ODSO Data Source Type
+Type  # Patent Type
+type  # Section Type
+types  # Entry Types
+type  # Text Box Form Field Type
+udl  # UDL Connection String
+uFillTx  # Underline Fill Properties Follow Text
+uiPriority  # Optional User Interface Sorting Order
+uLnTx  # Underline Follows Text
+ulTrailSpace  # Underline All Trailing Spaces
+uniqueTag  # Unique Value for Record
+upBars  # Up Bars
+updateFields  # Automatically Recalculate Fields on Open
+upDownBars  # Up/Down Bars
+up  # Up Vector
+URL  # URL
+userInterface  # User Interface
+userShapes  # Reference to Chart Drawing Part
+userShapes  # User Shapes
+users  # User List
+useSpRect  # Use Shape Text Rectangle
+useXSLTWhenSaving  # Save Document as XML File through Custom XSL Transform
+valAx  # Value Axis
+val  # DDE Link Value
+val  # Error Bar Value
+vAlign  # Table Cell Vertical Alignment
+vAlign  # Vertical Text Alignment on Page
+valueMetadata  # Value Metadata
+values  # DDE Name Values
+value  # Value
+val  # Value
+val  # Values
+vanish  # Hidden Text
+varLst  # Variable List
+varyColors  # Vary Colors by Point
+v  # Cell Value
+Version  # Version
+vertAlign  # Subscript/Superscript Text
+vertAlign  # Vertical Alignment
+vertical  # Vertical Inner Border
+videoFile  # Video from File
+video  # Video
+view  # Document View Setting
+viewMergedData  # View Merged Data Within Document
+viewPr  # Presentation-wide View Properties
+view3D  # View In 3D
+vMerge  # Vertically Merged Cell
+v  # Numeric Value
+volTypes  # Volatile Dependency Types
+volType  # Volatile Dependency Type
+vstream  # Binary Versioned Stream
+v  # Text Value
+wAfter  # Preferred Width After Table Row
+wavAudioFile  # Audio from WAV File
+wBefore  # Preferred Width Before Table Row
+webHidden  # Web Hidden Text
+webPr  # Web Query Properties
+webPublishing  # Web Publishing Properties
+webPublishItems  # Web Publishing Items
+webPublishItem  # Web Publishing Item
+webPublishObjects  # Web Publish Objects
+webPublishObject  # Web Publishing Object
+webSettings  # Web Page Settings
+w  # Expanded/Compressed Text
+w  # Frameset Splitter Width
+wholeTbl  # Whole Table
+whole  # Whole E2O Formatting
+whole  # Whole E2O Formatting
+widowControl  # Allow First/Last Line to Display on a Separate Page
+wireframe  # Wireframe
+wMode  # Width Mode
+Words  # Word Count
+wordWrap  # Allow Line Breaking At Character Level
+workbookPr  # Workbook Properties
+worksheetSource  # Worksheet PivotCache Source
+worksheet  # Worksheet
+wpc  # WordprocessingML Drawing Canvas
+wrapIndent  # Wrap Indent
+wrapNone  # No Text Wrapping
+wrapPolygon  # Wrapping Polygon
+wrapRight  # Wrap Right
+wrapSquare  # Square Wrapping
+wrapThrough  # Through Wrapping
+wrapTight  # Tight Wrapping
+writeProtection  # Write Protection
+wsDr  # Worksheet Drawing
+wsp  # WordprocessingML Shape
+w  # Width
+xf  # Format
+xfrm  # Graphic Frame Transform
+xfrm  # Transform Effect
+xfrm  # 2D Transform for Graphic Frame
+xfrm  # 2D Transform for Graphic Frames
+xfrm  # 2D Transform for Graphic Frames
+xfrm  # 2D Transform for Grouped Objects
+x  # Left
+x  # Member Property Index
+xmlCellPr  # Cell Properties
+xmlColumnPr  # XML Column Properties
+xmlPr  # Column XML Properties
+xMode  # Left Mode
+x  # Relative X Coordinate
+x  # Shared Items Index
+xVal  # X Values
+YearAccessed  # Year Accessed
+yearLong  # Date Block - Long Year Format
+yearShort  # Date Block - Short Year Format
+Year  # Year
+yMode  # Top Mode
+y  # Relative Y Coordinate
+y  # Top
+yVal  # Y Values
+zeroAsc  # Phantom Zero Ascent
+zeroDesc  # Phantom Zero Descent
+zeroWid  # Phantom Zero Width
+zoom  # Magnification Setting
+zoom  # Zoom Slide Transition
